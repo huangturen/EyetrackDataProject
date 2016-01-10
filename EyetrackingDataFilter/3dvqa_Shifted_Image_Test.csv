@@ -1,0 +1,2169 @@
+任务名,Shifted Image Test,,,,,,,
+任务类型,SG,,,,,,,
+图片显示类型,TB,,,,,,,
+图片播放类型,TRUE,,,,,,,
+任务说明,SS for shifted images.,,,,,,,
+开始日期,2015/4/17,,,,,,,
+截至日期,2015/9/30,,,,,,,
+播放时长,12,,,,,,,
+播放间隔,3,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,01:59.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,wzxsjdt,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1991/2/20,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_73s34.csv
+2,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_3s-34.csv
+3,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_82s11.csv
+4,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_104s11.csv
+5,82s0.jpg,82s0.jpg,82s0.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_82s0.csv
+6,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_69s0.csv
+7,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_89s-34.csv
+8,32s22.jpg,32s22.jpg,32s22.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_32s22.csv
+9,47s11.jpg,47s11.jpg,47s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_47s11.csv
+10,104s34.jpg,104s34.jpg,104s34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_104s34.csv
+11,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_82s-22.csv
+12,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_82s34.csv
+13,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_32s0.csv
+14,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_82s-34.csv
+15,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_73s22.csv
+16,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_26s-22.csv
+17,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_26s34.csv
+18,3s0.jpg,3s0.jpg,3s0.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_3s0.csv
+19,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_47s-11.csv
+20,55s11.jpg,55s11.jpg,55s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_55s11.csv
+21,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_26s-34.csv
+22,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_69s-11.csv
+23,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_3s-11.csv
+24,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_73s-34.csv
+25,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_32s34.csv
+26,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_32s-34.csv
+27,89s11.jpg,89s11.jpg,89s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_89s11.csv
+28,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_73s0.csv
+29,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_69s-34.csv
+30,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_47s-22.csv
+31,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_86s-34.csv
+32,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_55s-11.csv
+33,3s11.jpg,3s11.jpg,3s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_3s11.csv
+34,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_55s-22.csv
+35,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_3s-22.csv
+36,86s11.jpg,86s11.jpg,86s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_86s11.csv
+37,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_73s-22.csv
+38,69s22.jpg,69s22.jpg,69s22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_69s22.csv
+39,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_89s-11.csv
+40,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_26s-11.csv
+41,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_32s11.csv
+42,73s11.jpg,73s11.jpg,73s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_73s11.csv
+43,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_89s0.csv
+44,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_86s34.csv
+45,82s22.jpg,82s22.jpg,82s22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_82s22.csv
+46,86s0.jpg,86s0.jpg,86s0.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_86s0.csv
+47,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_47s0.csv
+48,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_104s22.csv
+49,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_47s-34.csv
+50,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_69s-22.csv
+51,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_26s11.csv
+52,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_86s-11.csv
+53,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_32s-22.csv
+54,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_104s-11.csv
+55,55s0.jpg,55s0.jpg,55s0.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_55s0.csv
+56,3s34.jpg,3s34.jpg,3s34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_3s34.csv
+57,47s34.jpg,47s34.jpg,47s34.jpg,null,2,0,null,test288_Shifted Image Test_wzxsjdt_47s34.csv
+58,89s34.jpg,89s34.jpg,89s34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_89s34.csv
+59,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_47s22.csv
+60,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_86s22.csv
+61,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_55s-34.csv
+62,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_104s-34.csv
+63,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_104s0.csv
+64,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_26s0.csv
+65,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_26s22.csv
+66,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_89s22.csv
+67,69s11.jpg,69s11.jpg,69s11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_69s11.csv
+68,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_104s-22.csv
+69,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_89s-22.csv
+70,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_82s-11.csv
+71,55s22.jpg,55s22.jpg,55s22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_55s22.csv
+72,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_3s22.csv
+73,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test288_Shifted Image Test_wzxsjdt_32s-11.csv
+74,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_55s34.csv
+75,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_69s34.csv
+76,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,5,0,null,test288_Shifted Image Test_wzxsjdt_73s-11.csv
+77,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test288_Shifted Image Test_wzxsjdt_86s-22.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,38:07.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,sunmin,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1990/5/20,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_47s-22.csv
+2,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_89s22.csv
+3,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_26s22.csv
+4,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_104s-11.csv
+5,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_82s-11.csv
+6,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_47s-34.csv
+7,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_73s-22.csv
+8,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_47s-11.csv
+9,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_3s11.csv
+10,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_32s-11.csv
+11,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_104s22.csv
+12,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_73s22.csv
+13,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_55s0.csv
+14,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_55s-34.csv
+15,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_73s-11.csv
+16,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_55s34.csv
+17,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_89s-22.csv
+18,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_86s-22.csv
+19,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_73s0.csv
+20,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_47s22.csv
+21,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_26s0.csv
+22,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_32s34.csv
+23,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_82s-34.csv
+24,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_104s11.csv
+25,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_82s22.csv
+26,69s0.jpg,69s0.jpg,69s0.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_69s0.csv
+27,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_32s0.csv
+28,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_104s34.csv
+29,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_26s-22.csv
+30,86s34.jpg,86s34.jpg,86s34.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_86s34.csv
+31,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_55s-22.csv
+32,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,1,0,null,test298_Shifted Image Test_sunmin_3s-34.csv
+33,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_32s11.csv
+34,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_73s-34.csv
+35,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_47s34.csv
+36,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_26s-11.csv
+37,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test298_Shifted Image Test_sunmin_69s-34.csv
+38,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_89s-34.csv
+39,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_55s22.csv
+40,3s34.jpg,3s34.jpg,3s34.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_3s34.csv
+41,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_82s11.csv
+42,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_47s0.csv
+43,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_86s0.csv
+44,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_73s11.csv
+45,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_86s-34.csv
+46,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test298_Shifted Image Test_sunmin_32s22.csv
+47,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_69s34.csv
+48,89s34.jpg,89s34.jpg,89s34.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_89s34.csv
+49,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_3s0.csv
+50,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_47s11.csv
+51,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_3s22.csv
+52,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_69s22.csv
+53,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_73s34.csv
+54,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_89s0.csv
+55,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_86s-11.csv
+56,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_104s-34.csv
+57,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_69s-11.csv
+58,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test298_Shifted Image Test_sunmin_32s-22.csv
+59,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test298_Shifted Image Test_sunmin_32s-34.csv
+60,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_86s11.csv
+61,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_86s22.csv
+62,82s0.jpg,82s0.jpg,82s0.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_82s0.csv
+63,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_89s11.csv
+64,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_82s34.csv
+65,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_26s34.csv
+66,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_26s11.csv
+67,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_55s-11.csv
+68,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_3s-11.csv
+69,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_89s-11.csv
+70,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_104s-22.csv
+71,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_82s-22.csv
+72,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_69s-22.csv
+73,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test298_Shifted Image Test_sunmin_3s-22.csv
+74,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_55s11.csv
+75,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test298_Shifted Image Test_sunmin_69s11.csv
+76,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,1,0,null,test298_Shifted Image Test_sunmin_26s-34.csv
+77,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test298_Shifted Image Test_sunmin_104s0.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,25:07.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,3dvqa,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1992/3/23,,,,,,,
+注册日期,2015/4/15,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_55s-11.csv
+2,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_26s-11.csv
+3,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_26s-34.csv
+4,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test315_Shifted Image Test_3dvqa_47s-22.csv
+5,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_69s22.csv
+6,26s34.jpg,26s34.jpg,26s34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_26s34.csv
+7,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_69s-22.csv
+8,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_69s-11.csv
+9,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_104s0.csv
+10,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_82s34.csv
+11,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_47s34.csv
+12,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_3s0.csv
+13,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_55s34.csv
+14,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_55s-34.csv
+15,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_104s-22.csv
+16,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_82s-34.csv
+17,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_89s11.csv
+18,3s22.jpg,3s22.jpg,3s22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_3s22.csv
+19,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_32s-22.csv
+20,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_73s22.csv
+21,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_73s11.csv
+22,104s34.jpg,104s34.jpg,104s34.jpg,null,2,0,null,test315_Shifted Image Test_3dvqa_104s34.csv
+23,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_73s34.csv
+24,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_47s0.csv
+25,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_104s11.csv
+26,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_104s-34.csv
+27,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_89s0.csv
+28,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_55s22.csv
+29,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_89s-34.csv
+30,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_26s22.csv
+31,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_82s22.csv
+32,86s11.jpg,86s11.jpg,86s11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_86s11.csv
+33,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_32s22.csv
+34,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_86s-11.csv
+35,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_82s0.csv
+36,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_47s-34.csv
+37,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_69s34.csv
+38,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_26s-22.csv
+39,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_3s34.csv
+40,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_32s-34.csv
+41,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_86s22.csv
+42,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_89s22.csv
+43,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_89s-11.csv
+44,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_55s-22.csv
+45,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_32s11.csv
+46,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_32s0.csv
+47,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_104s22.csv
+48,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_86s-22.csv
+49,86s34.jpg,86s34.jpg,86s34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_86s34.csv
+50,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_86s-34.csv
+51,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_3s-22.csv
+52,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_32s-11.csv
+53,32s34.jpg,32s34.jpg,32s34.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_32s34.csv
+54,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,2,0,null,test315_Shifted Image Test_3dvqa_104s-11.csv
+55,69s11.jpg,69s11.jpg,69s11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_69s11.csv
+56,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_69s-34.csv
+57,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_47s22.csv
+58,86s0.jpg,86s0.jpg,86s0.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_86s0.csv
+59,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_73s-11.csv
+60,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_26s0.csv
+61,89s34.jpg,89s34.jpg,89s34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_89s34.csv
+62,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_82s11.csv
+63,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_3s11.csv
+64,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_3s-11.csv
+65,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_73s-22.csv
+66,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_82s-11.csv
+67,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_3s-34.csv
+68,73s0.jpg,73s0.jpg,73s0.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_73s0.csv
+69,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_73s-34.csv
+70,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_69s0.csv
+71,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_47s-11.csv
+72,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_82s-22.csv
+73,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_89s-22.csv
+74,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_47s11.csv
+75,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test315_Shifted Image Test_3dvqa_55s0.csv
+76,55s11.jpg,55s11.jpg,55s11.jpg,null,5,0,null,test315_Shifted Image Test_3dvqa_55s11.csv
+77,26s11.jpg,26s11.jpg,26s11.jpg,null,3,0,null,test315_Shifted Image Test_3dvqa_26s11.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,21:30.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,fjz1124,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1989/11/24,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,3s34.jpg,3s34.jpg,3s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_3s34.csv
+2,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_32s-11.csv
+3,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_32s-34.csv
+4,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_89s11.csv
+5,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_86s-22.csv
+6,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_55s34.csv
+7,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_73s22.csv
+8,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_104s-22.csv
+9,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_3s-11.csv
+10,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_82s22.csv
+11,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_55s-22.csv
+12,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_55s-11.csv
+13,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_55s-34.csv
+14,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_32s0.csv
+15,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_73s11.csv
+16,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_86s22.csv
+17,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_73s-22.csv
+18,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_47s0.csv
+19,82s0.jpg,82s0.jpg,82s0.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_82s0.csv
+20,89s22.jpg,89s22.jpg,89s22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_89s22.csv
+21,89s0.jpg,89s0.jpg,89s0.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_89s0.csv
+22,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_3s-22.csv
+23,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_47s22.csv
+24,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_26s-11.csv
+25,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_86s-11.csv
+26,26s34.jpg,26s34.jpg,26s34.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_26s34.csv
+27,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_47s-34.csv
+28,104s34.jpg,104s34.jpg,104s34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_104s34.csv
+29,3s0.jpg,3s0.jpg,3s0.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_3s0.csv
+30,69s34.jpg,69s34.jpg,69s34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_69s34.csv
+31,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_26s22.csv
+32,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_55s11.csv
+33,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_69s-34.csv
+34,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_89s-22.csv
+35,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_104s-34.csv
+36,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_26s-22.csv
+37,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_69s0.csv
+38,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_104s22.csv
+39,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_82s34.csv
+40,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_73s-34.csv
+41,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_32s11.csv
+42,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_82s-11.csv
+43,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_3s22.csv
+44,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_73s34.csv
+45,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test346_Shifted Image Test_fjz1124_73s0.csv
+46,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test346_Shifted Image Test_fjz1124_55s0.csv
+47,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_32s-22.csv
+48,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_89s34.csv
+49,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_89s-34.csv
+50,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_82s11.csv
+51,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_47s-11.csv
+52,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_73s-11.csv
+53,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_89s-11.csv
+54,32s22.jpg,32s22.jpg,32s22.jpg,null,5,0,null,test346_Shifted Image Test_fjz1124_32s22.csv
+55,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_104s0.csv
+56,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_32s34.csv
+57,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_104s-11.csv
+58,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_86s34.csv
+59,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_86s11.csv
+60,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_82s-22.csv
+61,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_86s-34.csv
+62,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_69s-22.csv
+63,47s34.jpg,47s34.jpg,47s34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_47s34.csv
+64,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test346_Shifted Image Test_fjz1124_55s22.csv
+65,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_47s11.csv
+66,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_104s11.csv
+67,69s11.jpg,69s11.jpg,69s11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_69s11.csv
+68,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_26s0.csv
+69,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_26s11.csv
+70,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_3s-34.csv
+71,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_82s-34.csv
+72,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_47s-22.csv
+73,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_69s22.csv
+74,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_3s11.csv
+75,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test346_Shifted Image Test_fjz1124_69s-11.csv
+76,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,2,0,null,test346_Shifted Image Test_fjz1124_26s-34.csv
+77,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test346_Shifted Image Test_fjz1124_86s0.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,16:28.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,shenshihui,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1993/10/21,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,82s0.jpg,82s0.jpg,82s0.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_82s0.csv
+2,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_73s34.csv
+3,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_32s-34.csv
+4,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_26s-22.csv
+5,104s34.jpg,104s34.jpg,104s34.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_104s34.csv
+6,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_55s-34.csv
+7,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_32s-11.csv
+8,32s34.jpg,32s34.jpg,32s34.jpg,null,5,0,null,test350_Shifted Image Test_shenshihui_32s34.csv
+9,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_55s0.csv
+10,86s34.jpg,86s34.jpg,86s34.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_86s34.csv
+11,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_69s0.csv
+12,69s34.jpg,69s34.jpg,69s34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_69s34.csv
+13,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_26s34.csv
+14,86s0.jpg,86s0.jpg,86s0.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_86s0.csv
+15,3s22.jpg,3s22.jpg,3s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_3s22.csv
+16,86s22.jpg,86s22.jpg,86s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_86s22.csv
+17,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_26s-34.csv
+18,104s0.jpg,104s0.jpg,104s0.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_104s0.csv
+19,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_73s-34.csv
+20,89s0.jpg,89s0.jpg,89s0.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_89s0.csv
+21,69s22.jpg,69s22.jpg,69s22.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_69s22.csv
+22,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_73s-22.csv
+23,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_47s-11.csv
+24,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_47s22.csv
+25,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_69s-11.csv
+26,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_32s-22.csv
+27,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_69s11.csv
+28,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_69s-22.csv
+29,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_26s11.csv
+30,82s11.jpg,82s11.jpg,82s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_82s11.csv
+31,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_26s0.csv
+32,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_86s-34.csv
+33,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_86s-11.csv
+34,89s11.jpg,89s11.jpg,89s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_89s11.csv
+35,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_32s22.csv
+36,82s34.jpg,82s34.jpg,82s34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_82s34.csv
+37,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_73s22.csv
+38,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_104s-22.csv
+39,82s22.jpg,82s22.jpg,82s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_82s22.csv
+40,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_26s-11.csv
+41,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_3s-22.csv
+42,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_32s0.csv
+43,89s22.jpg,89s22.jpg,89s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_89s22.csv
+44,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_55s-22.csv
+45,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_47s0.csv
+46,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_86s-22.csv
+47,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_47s-22.csv
+48,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_26s22.csv
+49,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_3s-34.csv
+50,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_82s-11.csv
+51,47s34.jpg,47s34.jpg,47s34.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_47s34.csv
+52,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_104s-34.csv
+53,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_32s11.csv
+54,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_47s-34.csv
+55,3s0.jpg,3s0.jpg,3s0.jpg,null,5,0,null,test350_Shifted Image Test_shenshihui_3s0.csv
+56,55s22.jpg,55s22.jpg,55s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_55s22.csv
+57,55s34.jpg,55s34.jpg,55s34.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_55s34.csv
+58,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_82s-34.csv
+59,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_104s22.csv
+60,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_89s-11.csv
+61,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_73s11.csv
+62,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_104s11.csv
+63,86s11.jpg,86s11.jpg,86s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_86s11.csv
+64,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_89s-34.csv
+65,3s34.jpg,3s34.jpg,3s34.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_3s34.csv
+66,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_69s-34.csv
+67,55s11.jpg,55s11.jpg,55s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_55s11.csv
+68,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_89s-22.csv
+69,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_73s0.csv
+70,47s11.jpg,47s11.jpg,47s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_47s11.csv
+71,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_3s-11.csv
+72,3s11.jpg,3s11.jpg,3s11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_3s11.csv
+73,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,2,0,null,test350_Shifted Image Test_shenshihui_104s-11.csv
+74,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_73s-11.csv
+75,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_89s34.csv
+76,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test350_Shifted Image Test_shenshihui_55s-11.csv
+77,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test350_Shifted Image Test_shenshihui_82s-22.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,17:06.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,pesuidemeng,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1994/8/20,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_89s-34.csv
+2,73s34.jpg,73s34.jpg,73s34.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_73s34.csv
+3,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_3s-11.csv
+4,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_82s-22.csv
+5,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_55s34.csv
+6,55s0.jpg,55s0.jpg,55s0.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_55s0.csv
+7,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_55s-11.csv
+8,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_82s-11.csv
+9,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_55s-34.csv
+10,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_69s-22.csv
+11,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_26s-11.csv
+12,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_86s34.csv
+13,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_69s-34.csv
+14,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_73s0.csv
+15,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_69s-11.csv
+16,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_86s-11.csv
+17,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_32s22.csv
+18,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_86s-22.csv
+19,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_104s-22.csv
+20,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_104s-34.csv
+21,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_55s-22.csv
+22,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_73s22.csv
+23,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_104s0.csv
+24,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_47s0.csv
+25,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_3s-22.csv
+26,82s34.jpg,82s34.jpg,82s34.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_82s34.csv
+27,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_86s0.csv
+28,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_26s0.csv
+29,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_73s-11.csv
+30,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_3s0.csv
+31,69s11.jpg,69s11.jpg,69s11.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_69s11.csv
+32,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_26s-22.csv
+33,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_82s0.csv
+34,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_47s-22.csv
+35,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_32s-11.csv
+36,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_104s34.csv
+37,89s34.jpg,89s34.jpg,89s34.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_89s34.csv
+38,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_47s11.csv
+39,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_73s-22.csv
+40,55s11.jpg,55s11.jpg,55s11.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_55s11.csv
+41,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_86s22.csv
+42,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_3s22.csv
+43,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_104s22.csv
+44,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_69s0.csv
+45,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test353_Shifted Image Test_pesuidemeng_32s-34.csv
+46,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_73s11.csv
+47,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_104s11.csv
+48,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_69s22.csv
+49,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_104s-11.csv
+50,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_89s0.csv
+51,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_89s11.csv
+52,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_86s11.csv
+53,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_89s-22.csv
+54,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,1,0,null,test353_Shifted Image Test_pesuidemeng_3s-34.csv
+55,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_26s11.csv
+56,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,1,0,null,test353_Shifted Image Test_pesuidemeng_26s-34.csv
+57,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,1,0,null,test353_Shifted Image Test_pesuidemeng_47s-34.csv
+58,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_82s11.csv
+59,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,1,0,null,test353_Shifted Image Test_pesuidemeng_73s-34.csv
+60,55s22.jpg,55s22.jpg,55s22.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_55s22.csv
+61,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_47s34.csv
+62,26s22.jpg,26s22.jpg,26s22.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_26s22.csv
+63,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_32s0.csv
+64,89s22.jpg,89s22.jpg,89s22.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_89s22.csv
+65,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_82s-34.csv
+66,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test353_Shifted Image Test_pesuidemeng_89s-11.csv
+67,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_82s22.csv
+68,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_69s34.csv
+69,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_32s34.csv
+70,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_3s34.csv
+71,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test353_Shifted Image Test_pesuidemeng_3s11.csv
+72,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test353_Shifted Image Test_pesuidemeng_32s-22.csv
+73,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_47s22.csv
+74,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_47s-11.csv
+75,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_86s-34.csv
+76,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test353_Shifted Image Test_pesuidemeng_32s11.csv
+77,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test353_Shifted Image Test_pesuidemeng_26s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,32:10.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,chen,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1994/6/21,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,5,0,null,test388_Shifted Image Test_chen_82s-22.csv
+2,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test388_Shifted Image Test_chen_26s-11.csv
+3,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test388_Shifted Image Test_chen_69s22.csv
+4,3s34.jpg,3s34.jpg,3s34.jpg,null,3,0,null,test388_Shifted Image Test_chen_3s34.csv
+5,47s34.jpg,47s34.jpg,47s34.jpg,null,3,0,null,test388_Shifted Image Test_chen_47s34.csv
+6,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test388_Shifted Image Test_chen_55s0.csv
+7,55s34.jpg,55s34.jpg,55s34.jpg,null,3,0,null,test388_Shifted Image Test_chen_55s34.csv
+8,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test388_Shifted Image Test_chen_73s22.csv
+9,73s11.jpg,73s11.jpg,73s11.jpg,null,3,0,null,test388_Shifted Image Test_chen_73s11.csv
+10,69s34.jpg,69s34.jpg,69s34.jpg,null,3,0,null,test388_Shifted Image Test_chen_69s34.csv
+11,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test388_Shifted Image Test_chen_26s0.csv
+12,32s22.jpg,32s22.jpg,32s22.jpg,null,5,0,null,test388_Shifted Image Test_chen_32s22.csv
+13,3s0.jpg,3s0.jpg,3s0.jpg,null,5,0,null,test388_Shifted Image Test_chen_3s0.csv
+14,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test388_Shifted Image Test_chen_104s-22.csv
+15,104s34.jpg,104s34.jpg,104s34.jpg,null,2,0,null,test388_Shifted Image Test_chen_104s34.csv
+16,55s22.jpg,55s22.jpg,55s22.jpg,null,3,0,null,test388_Shifted Image Test_chen_55s22.csv
+17,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test388_Shifted Image Test_chen_104s-11.csv
+18,3s11.jpg,3s11.jpg,3s11.jpg,null,3,0,null,test388_Shifted Image Test_chen_3s11.csv
+19,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test388_Shifted Image Test_chen_3s-22.csv
+20,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test388_Shifted Image Test_chen_86s-34.csv
+21,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,2,0,null,test388_Shifted Image Test_chen_89s-11.csv
+22,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test388_Shifted Image Test_chen_104s22.csv
+23,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test388_Shifted Image Test_chen_104s0.csv
+24,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test388_Shifted Image Test_chen_26s22.csv
+25,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test388_Shifted Image Test_chen_32s0.csv
+26,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test388_Shifted Image Test_chen_55s-34.csv
+27,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test388_Shifted Image Test_chen_82s11.csv
+28,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,1,0,null,test388_Shifted Image Test_chen_3s-34.csv
+29,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test388_Shifted Image Test_chen_69s11.csv
+30,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test388_Shifted Image Test_chen_86s11.csv
+31,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,4,0,null,test388_Shifted Image Test_chen_47s-22.csv
+32,55s11.jpg,55s11.jpg,55s11.jpg,null,3,0,null,test388_Shifted Image Test_chen_55s11.csv
+33,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,1,0,null,test388_Shifted Image Test_chen_47s-34.csv
+34,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test388_Shifted Image Test_chen_69s0.csv
+35,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test388_Shifted Image Test_chen_55s-11.csv
+36,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test388_Shifted Image Test_chen_26s-22.csv
+37,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test388_Shifted Image Test_chen_86s0.csv
+38,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,5,0,null,test388_Shifted Image Test_chen_55s-22.csv
+39,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,1,0,null,test388_Shifted Image Test_chen_32s-11.csv
+40,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test388_Shifted Image Test_chen_26s34.csv
+41,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test388_Shifted Image Test_chen_26s11.csv
+42,89s22.jpg,89s22.jpg,89s22.jpg,null,5,0,null,test388_Shifted Image Test_chen_89s22.csv
+43,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test388_Shifted Image Test_chen_69s-34.csv
+44,47s0.jpg,47s0.jpg,47s0.jpg,null,5,0,null,test388_Shifted Image Test_chen_47s0.csv
+45,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test388_Shifted Image Test_chen_73s-22.csv
+46,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test388_Shifted Image Test_chen_82s-34.csv
+47,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test388_Shifted Image Test_chen_89s-22.csv
+48,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test388_Shifted Image Test_chen_73s34.csv
+49,82s0.jpg,82s0.jpg,82s0.jpg,null,5,0,null,test388_Shifted Image Test_chen_82s0.csv
+50,47s11.jpg,47s11.jpg,47s11.jpg,null,3,0,null,test388_Shifted Image Test_chen_47s11.csv
+51,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test388_Shifted Image Test_chen_89s-34.csv
+52,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test388_Shifted Image Test_chen_82s34.csv
+53,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test388_Shifted Image Test_chen_86s-11.csv
+54,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test388_Shifted Image Test_chen_47s-11.csv
+55,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test388_Shifted Image Test_chen_73s0.csv
+56,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test388_Shifted Image Test_chen_47s22.csv
+57,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,1,0,null,test388_Shifted Image Test_chen_69s-11.csv
+58,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test388_Shifted Image Test_chen_32s-22.csv
+59,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test388_Shifted Image Test_chen_89s11.csv
+60,86s34.jpg,86s34.jpg,86s34.jpg,null,2,0,null,test388_Shifted Image Test_chen_86s34.csv
+61,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test388_Shifted Image Test_chen_32s-34.csv
+62,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test388_Shifted Image Test_chen_104s11.csv
+63,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test388_Shifted Image Test_chen_82s-11.csv
+64,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test388_Shifted Image Test_chen_73s-11.csv
+65,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test388_Shifted Image Test_chen_32s11.csv
+66,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test388_Shifted Image Test_chen_89s0.csv
+67,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test388_Shifted Image Test_chen_3s22.csv
+68,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test388_Shifted Image Test_chen_82s22.csv
+69,89s34.jpg,89s34.jpg,89s34.jpg,null,3,0,null,test388_Shifted Image Test_chen_89s34.csv
+70,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test388_Shifted Image Test_chen_69s-22.csv
+71,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,2,0,null,test388_Shifted Image Test_chen_73s-34.csv
+72,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test388_Shifted Image Test_chen_86s-22.csv
+73,32s34.jpg,32s34.jpg,32s34.jpg,null,5,0,null,test388_Shifted Image Test_chen_32s34.csv
+74,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,5,0,null,test388_Shifted Image Test_chen_104s-34.csv
+75,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,1,0,null,test388_Shifted Image Test_chen_26s-34.csv
+76,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test388_Shifted Image Test_chen_3s-11.csv
+77,86s22.jpg,86s22.jpg,86s22.jpg,null,2,0,null,test388_Shifted Image Test_chen_86s22.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,37:28.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,123123,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1990/11/12,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_26s-22.csv
+2,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test403_Shifted Image Test_123123_89s-11.csv
+3,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_82s-22.csv
+4,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test403_Shifted Image Test_123123_104s22.csv
+5,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_89s0.csv
+6,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test403_Shifted Image Test_123123_104s11.csv
+7,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test403_Shifted Image Test_123123_73s22.csv
+8,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test403_Shifted Image Test_123123_32s22.csv
+9,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test403_Shifted Image Test_123123_47s-11.csv
+10,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test403_Shifted Image Test_123123_32s0.csv
+11,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test403_Shifted Image Test_123123_55s0.csv
+12,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_47s-34.csv
+13,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_89s11.csv
+14,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_73s11.csv
+15,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_73s-34.csv
+16,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test403_Shifted Image Test_123123_89s34.csv
+17,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test403_Shifted Image Test_123123_104s34.csv
+18,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,3,0,null,test403_Shifted Image Test_123123_26s-11.csv
+19,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,3,0,null,test403_Shifted Image Test_123123_69s-22.csv
+20,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_82s11.csv
+21,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_3s0.csv
+22,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_69s-34.csv
+23,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test403_Shifted Image Test_123123_3s22.csv
+24,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_47s11.csv
+25,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_73s-22.csv
+26,73s34.jpg,73s34.jpg,73s34.jpg,null,5,0,null,test403_Shifted Image Test_123123_73s34.csv
+27,89s22.jpg,89s22.jpg,89s22.jpg,null,5,0,null,test403_Shifted Image Test_123123_89s22.csv
+28,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_32s11.csv
+29,86s34.jpg,86s34.jpg,86s34.jpg,null,3,0,null,test403_Shifted Image Test_123123_86s34.csv
+30,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test403_Shifted Image Test_123123_104s-34.csv
+31,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test403_Shifted Image Test_123123_55s-11.csv
+32,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_3s11.csv
+33,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test403_Shifted Image Test_123123_69s22.csv
+34,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,5,0,null,test403_Shifted Image Test_123123_73s-11.csv
+35,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test403_Shifted Image Test_123123_3s-22.csv
+36,86s22.jpg,86s22.jpg,86s22.jpg,null,3,0,null,test403_Shifted Image Test_123123_86s22.csv
+37,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_55s11.csv
+38,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_55s-22.csv
+39,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test403_Shifted Image Test_123123_26s34.csv
+40,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test403_Shifted Image Test_123123_69s34.csv
+41,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test403_Shifted Image Test_123123_55s34.csv
+42,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test403_Shifted Image Test_123123_82s-11.csv
+43,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_86s-34.csv
+44,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test403_Shifted Image Test_123123_47s22.csv
+45,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test403_Shifted Image Test_123123_82s34.csv
+46,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test403_Shifted Image Test_123123_32s-22.csv
+47,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_86s0.csv
+48,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_47s0.csv
+49,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test403_Shifted Image Test_123123_69s0.csv
+50,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_89s-34.csv
+51,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test403_Shifted Image Test_123123_47s34.csv
+52,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test403_Shifted Image Test_123123_32s-11.csv
+53,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_26s0.csv
+54,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,4,0,null,test403_Shifted Image Test_123123_3s-34.csv
+55,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_104s0.csv
+56,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test403_Shifted Image Test_123123_3s34.csv
+57,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test403_Shifted Image Test_123123_86s-11.csv
+58,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_82s-34.csv
+59,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test403_Shifted Image Test_123123_55s-34.csv
+60,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test403_Shifted Image Test_123123_104s-11.csv
+61,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,3,0,null,test403_Shifted Image Test_123123_86s-22.csv
+62,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_73s0.csv
+63,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test403_Shifted Image Test_123123_32s34.csv
+64,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test403_Shifted Image Test_123123_82s0.csv
+65,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_26s11.csv
+66,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_104s-22.csv
+67,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test403_Shifted Image Test_123123_69s11.csv
+68,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test403_Shifted Image Test_123123_32s-34.csv
+69,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test403_Shifted Image Test_123123_69s-11.csv
+70,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test403_Shifted Image Test_123123_55s22.csv
+71,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_47s-22.csv
+72,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test403_Shifted Image Test_123123_26s22.csv
+73,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test403_Shifted Image Test_123123_89s-22.csv
+74,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,4,0,null,test403_Shifted Image Test_123123_26s-34.csv
+75,86s11.jpg,86s11.jpg,86s11.jpg,null,3,0,null,test403_Shifted Image Test_123123_86s11.csv
+76,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test403_Shifted Image Test_123123_82s22.csv
+77,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test403_Shifted Image Test_123123_3s-11.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,10:12.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,wizard,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1993/4/8,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,69s11.jpg,69s11.jpg,69s11.jpg,null,5,0,null,test415_Shifted Image Test_wizard_69s11.csv
+2,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test415_Shifted Image Test_wizard_69s0.csv
+3,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,2,0,null,test415_Shifted Image Test_wizard_26s-34.csv
+4,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test415_Shifted Image Test_wizard_32s0.csv
+5,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_82s-34.csv
+6,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_104s-34.csv
+7,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test415_Shifted Image Test_wizard_104s-22.csv
+8,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test415_Shifted Image Test_wizard_55s22.csv
+9,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test415_Shifted Image Test_wizard_86s34.csv
+10,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test415_Shifted Image Test_wizard_47s0.csv
+11,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test415_Shifted Image Test_wizard_47s11.csv
+12,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test415_Shifted Image Test_wizard_26s0.csv
+13,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_73s34.csv
+14,104s0.jpg,104s0.jpg,104s0.jpg,null,3,0,null,test415_Shifted Image Test_wizard_104s0.csv
+15,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test415_Shifted Image Test_wizard_69s-34.csv
+16,82s0.jpg,82s0.jpg,82s0.jpg,null,3,0,null,test415_Shifted Image Test_wizard_82s0.csv
+17,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test415_Shifted Image Test_wizard_47s34.csv
+18,82s22.jpg,82s22.jpg,82s22.jpg,null,5,0,null,test415_Shifted Image Test_wizard_82s22.csv
+19,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test415_Shifted Image Test_wizard_26s-22.csv
+20,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test415_Shifted Image Test_wizard_89s-22.csv
+21,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test415_Shifted Image Test_wizard_89s11.csv
+22,86s0.jpg,86s0.jpg,86s0.jpg,null,3,0,null,test415_Shifted Image Test_wizard_86s0.csv
+23,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_32s34.csv
+24,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_3s11.csv
+25,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_86s-11.csv
+26,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test415_Shifted Image Test_wizard_32s-22.csv
+27,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test415_Shifted Image Test_wizard_82s34.csv
+28,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test415_Shifted Image Test_wizard_55s-11.csv
+29,26s34.jpg,26s34.jpg,26s34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_26s34.csv
+30,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,2,0,null,test415_Shifted Image Test_wizard_73s-11.csv
+31,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test415_Shifted Image Test_wizard_26s-11.csv
+32,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_26s11.csv
+33,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test415_Shifted Image Test_wizard_3s-22.csv
+34,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test415_Shifted Image Test_wizard_89s0.csv
+35,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test415_Shifted Image Test_wizard_55s-34.csv
+36,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test415_Shifted Image Test_wizard_69s-22.csv
+37,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_55s11.csv
+38,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,2,0,null,test415_Shifted Image Test_wizard_86s-22.csv
+39,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test415_Shifted Image Test_wizard_89s34.csv
+40,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test415_Shifted Image Test_wizard_32s-11.csv
+41,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test415_Shifted Image Test_wizard_55s0.csv
+42,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test415_Shifted Image Test_wizard_86s-34.csv
+43,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test415_Shifted Image Test_wizard_55s34.csv
+44,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,2,0,null,test415_Shifted Image Test_wizard_82s-22.csv
+45,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,2,0,null,test415_Shifted Image Test_wizard_3s-34.csv
+46,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test415_Shifted Image Test_wizard_47s-22.csv
+47,89s22.jpg,89s22.jpg,89s22.jpg,null,5,0,null,test415_Shifted Image Test_wizard_89s22.csv
+48,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_82s11.csv
+49,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test415_Shifted Image Test_wizard_32s-34.csv
+50,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test415_Shifted Image Test_wizard_104s11.csv
+51,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test415_Shifted Image Test_wizard_104s22.csv
+52,47s22.jpg,47s22.jpg,47s22.jpg,null,3,0,null,test415_Shifted Image Test_wizard_47s22.csv
+53,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test415_Shifted Image Test_wizard_3s22.csv
+54,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test415_Shifted Image Test_wizard_73s-22.csv
+55,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test415_Shifted Image Test_wizard_32s22.csv
+56,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test415_Shifted Image Test_wizard_69s34.csv
+57,26s22.jpg,26s22.jpg,26s22.jpg,null,5,0,null,test415_Shifted Image Test_wizard_26s22.csv
+58,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_86s11.csv
+59,104s34.jpg,104s34.jpg,104s34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_104s34.csv
+60,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_47s-34.csv
+61,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test415_Shifted Image Test_wizard_73s22.csv
+62,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_89s-34.csv
+63,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test415_Shifted Image Test_wizard_3s0.csv
+64,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test415_Shifted Image Test_wizard_55s-22.csv
+65,73s0.jpg,73s0.jpg,73s0.jpg,null,3,0,null,test415_Shifted Image Test_wizard_73s0.csv
+66,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test415_Shifted Image Test_wizard_3s34.csv
+67,69s22.jpg,69s22.jpg,69s22.jpg,null,3,0,null,test415_Shifted Image Test_wizard_69s22.csv
+68,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test415_Shifted Image Test_wizard_82s-11.csv
+69,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test415_Shifted Image Test_wizard_3s-11.csv
+70,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_73s11.csv
+71,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test415_Shifted Image Test_wizard_86s22.csv
+72,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,2,0,null,test415_Shifted Image Test_wizard_104s-11.csv
+73,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_47s-11.csv
+74,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,5,0,null,test415_Shifted Image Test_wizard_89s-11.csv
+75,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test415_Shifted Image Test_wizard_32s11.csv
+76,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test415_Shifted Image Test_wizard_73s-34.csv
+77,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test415_Shifted Image Test_wizard_69s-11.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,42:16.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,cjlumei,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1987/9/20,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_73s-34.csv
+2,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_32s-11.csv
+3,86s34.jpg,86s34.jpg,86s34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_86s34.csv
+4,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_26s-22.csv
+5,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_55s11.csv
+6,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_89s22.csv
+7,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_3s11.csv
+8,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_32s-34.csv
+9,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_73s11.csv
+10,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_3s-11.csv
+11,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_69s34.csv
+12,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_104s-22.csv
+13,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_47s-11.csv
+14,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_26s11.csv
+15,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_26s-11.csv
+16,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_55s-34.csv
+17,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_3s-34.csv
+18,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test422_Shifted Image Test_cjlumei_69s-34.csv
+19,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_104s-34.csv
+20,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_26s-34.csv
+21,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_89s0.csv
+22,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_3s22.csv
+23,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_47s-22.csv
+24,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_86s0.csv
+25,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_82s-11.csv
+26,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_69s-22.csv
+27,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_3s0.csv
+28,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_89s-34.csv
+29,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_26s0.csv
+30,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_104s34.csv
+31,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_89s-11.csv
+32,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_86s-11.csv
+33,69s22.jpg,69s22.jpg,69s22.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_69s22.csv
+34,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_55s34.csv
+35,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_32s0.csv
+36,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_73s-11.csv
+37,26s34.jpg,26s34.jpg,26s34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_26s34.csv
+38,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_104s11.csv
+39,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_55s-11.csv
+40,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_55s22.csv
+41,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_47s0.csv
+42,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_73s34.csv
+43,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_73s0.csv
+44,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_26s22.csv
+45,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_82s34.csv
+46,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_32s-22.csv
+47,89s11.jpg,89s11.jpg,89s11.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_89s11.csv
+48,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_82s-22.csv
+49,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_69s11.csv
+50,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_82s22.csv
+51,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_47s11.csv
+52,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_86s-22.csv
+53,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_86s-34.csv
+54,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_104s-11.csv
+55,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_86s11.csv
+56,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_89s-22.csv
+57,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_69s0.csv
+58,82s0.jpg,82s0.jpg,82s0.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_82s0.csv
+59,3s34.jpg,3s34.jpg,3s34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_3s34.csv
+60,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_32s34.csv
+61,82s11.jpg,82s11.jpg,82s11.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_82s11.csv
+62,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_69s-11.csv
+63,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_82s-34.csv
+64,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_104s0.csv
+65,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_47s-34.csv
+66,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_86s22.csv
+67,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_73s-22.csv
+68,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_73s22.csv
+69,32s22.jpg,32s22.jpg,32s22.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_32s22.csv
+70,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_55s-22.csv
+71,104s22.jpg,104s22.jpg,104s22.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_104s22.csv
+72,47s22.jpg,47s22.jpg,47s22.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_47s22.csv
+73,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_3s-22.csv
+74,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test422_Shifted Image Test_cjlumei_55s0.csv
+75,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test422_Shifted Image Test_cjlumei_32s11.csv
+76,89s34.jpg,89s34.jpg,89s34.jpg,null,3,0,null,test422_Shifted Image Test_cjlumei_89s34.csv
+77,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test422_Shifted Image Test_cjlumei_47s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,35:04.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,zhd_1225,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1989/12/25,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_104s-34.csv
+2,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_26s-22.csv
+3,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_55s22.csv
+4,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_26s-11.csv
+5,82s22.jpg,82s22.jpg,82s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_82s22.csv
+6,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_32s-34.csv
+7,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_89s-22.csv
+8,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_47s11.csv
+9,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_89s-11.csv
+10,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_26s22.csv
+11,89s34.jpg,89s34.jpg,89s34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_89s34.csv
+12,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_3s34.csv
+13,82s0.jpg,82s0.jpg,82s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_82s0.csv
+14,104s34.jpg,104s34.jpg,104s34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_104s34.csv
+15,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_82s-22.csv
+16,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_3s-34.csv
+17,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_55s11.csv
+18,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_82s-34.csv
+19,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_3s-11.csv
+20,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_82s-11.csv
+21,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_89s22.csv
+22,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_3s-22.csv
+23,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_55s0.csv
+24,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_86s0.csv
+25,26s0.jpg,26s0.jpg,26s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_26s0.csv
+26,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_104s0.csv
+27,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_82s34.csv
+28,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_86s22.csv
+29,32s22.jpg,32s22.jpg,32s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_32s22.csv
+30,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_86s-22.csv
+31,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_69s-34.csv
+32,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_3s22.csv
+33,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_32s34.csv
+34,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test425_Shifted Image Test_zhd_1225_47s-22.csv
+35,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_86s34.csv
+36,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_55s-22.csv
+37,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test425_Shifted Image Test_zhd_1225_47s-34.csv
+38,104s22.jpg,104s22.jpg,104s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_104s22.csv
+39,69s11.jpg,69s11.jpg,69s11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_69s11.csv
+40,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_104s-11.csv
+41,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_86s11.csv
+42,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_3s0.csv
+43,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_104s11.csv
+44,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_73s11.csv
+45,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_104s-22.csv
+46,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_55s-11.csv
+47,89s0.jpg,89s0.jpg,89s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_89s0.csv
+48,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_26s34.csv
+49,82s11.jpg,82s11.jpg,82s11.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_82s11.csv
+50,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test425_Shifted Image Test_zhd_1225_32s-22.csv
+51,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_89s11.csv
+52,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_89s-34.csv
+53,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_69s-11.csv
+54,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_69s-22.csv
+55,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_86s-11.csv
+56,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_73s-34.csv
+57,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test425_Shifted Image Test_zhd_1225_32s-11.csv
+58,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_26s11.csv
+59,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_73s0.csv
+60,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_47s34.csv
+61,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_3s11.csv
+62,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_73s-22.csv
+63,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_26s-34.csv
+64,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test425_Shifted Image Test_zhd_1225_73s34.csv
+65,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_73s-11.csv
+66,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_55s34.csv
+67,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_47s0.csv
+68,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_69s34.csv
+69,32s0.jpg,32s0.jpg,32s0.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_32s0.csv
+70,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test425_Shifted Image Test_zhd_1225_55s-34.csv
+71,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_69s0.csv
+72,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_73s22.csv
+73,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_47s-11.csv
+74,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_86s-34.csv
+75,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_69s22.csv
+76,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test425_Shifted Image Test_zhd_1225_32s11.csv
+77,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test425_Shifted Image Test_zhd_1225_47s22.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,20:34.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,Jenna,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1991/8/20,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,26s11.jpg,26s11.jpg,26s11.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_26s11.csv
+2,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_32s-34.csv
+3,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_86s11.csv
+4,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_69s-22.csv
+5,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_69s22.csv
+6,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_47s34.csv
+7,104s34.jpg,104s34.jpg,104s34.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_104s34.csv
+8,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_3s-22.csv
+9,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_32s-11.csv
+10,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_32s22.csv
+11,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_69s-11.csv
+12,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_69s-34.csv
+13,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_104s11.csv
+14,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_47s22.csv
+15,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_3s0.csv
+16,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_86s-34.csv
+17,89s34.jpg,89s34.jpg,89s34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_89s34.csv
+18,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_89s-11.csv
+19,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_26s0.csv
+20,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_89s22.csv
+21,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_69s34.csv
+22,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_73s-11.csv
+23,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_82s-22.csv
+24,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_55s-11.csv
+25,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_104s-22.csv
+26,26s34.jpg,26s34.jpg,26s34.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_26s34.csv
+27,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_104s-11.csv
+28,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_32s0.csv
+29,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_3s34.csv
+30,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_86s-22.csv
+31,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_73s34.csv
+32,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_26s-34.csv
+33,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_3s11.csv
+34,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_82s22.csv
+35,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_32s34.csv
+36,104s22.jpg,104s22.jpg,104s22.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_104s22.csv
+37,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_3s22.csv
+38,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_55s11.csv
+39,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_82s11.csv
+40,55s0.jpg,55s0.jpg,55s0.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_55s0.csv
+41,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_69s0.csv
+42,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_47s0.csv
+43,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_73s-22.csv
+44,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_55s22.csv
+45,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_26s-11.csv
+46,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_73s22.csv
+47,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_26s22.csv
+48,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_89s-34.csv
+49,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_47s11.csv
+50,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_47s-22.csv
+51,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_26s-22.csv
+52,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_104s0.csv
+53,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_3s-11.csv
+54,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_47s-34.csv
+55,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_55s34.csv
+56,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_86s-11.csv
+57,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_104s-34.csv
+58,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_89s11.csv
+59,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_82s34.csv
+60,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_82s-34.csv
+61,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_82s-11.csv
+62,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_86s34.csv
+63,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_55s-22.csv
+64,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_86s0.csv
+65,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_89s-22.csv
+66,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test428_Shifted Image Test_Jenna_86s22.csv
+67,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_73s0.csv
+68,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_3s-34.csv
+69,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_32s11.csv
+70,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_47s-11.csv
+71,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_82s0.csv
+72,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_73s11.csv
+73,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test428_Shifted Image Test_Jenna_89s0.csv
+74,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_32s-22.csv
+75,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test428_Shifted Image Test_Jenna_55s-34.csv
+76,69s11.jpg,69s11.jpg,69s11.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_69s11.csv
+77,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test428_Shifted Image Test_Jenna_73s-34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,17:12.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,Knight,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1992/1/30,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test431_Shifted Image Test_knight_104s-11.csv
+2,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test431_Shifted Image Test_knight_104s0.csv
+3,3s34.jpg,3s34.jpg,3s34.jpg,null,3,0,null,test431_Shifted Image Test_knight_3s34.csv
+4,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s22.csv
+5,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s-34.csv
+6,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_3s-34.csv
+7,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test431_Shifted Image Test_knight_73s0.csv
+8,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test431_Shifted Image Test_knight_55s-22.csv
+9,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test431_Shifted Image Test_knight_69s0.csv
+10,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test431_Shifted Image Test_knight_104s-22.csv
+11,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,3,0,null,test431_Shifted Image Test_knight_26s-11.csv
+12,69s22.jpg,69s22.jpg,69s22.jpg,null,3,0,null,test431_Shifted Image Test_knight_69s22.csv
+13,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test431_Shifted Image Test_knight_86s-22.csv
+14,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,5,0,null,test431_Shifted Image Test_knight_86s-34.csv
+15,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test431_Shifted Image Test_knight_104s22.csv
+16,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,5,0,null,test431_Shifted Image Test_knight_89s-11.csv
+17,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test431_Shifted Image Test_knight_104s11.csv
+18,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test431_Shifted Image Test_knight_55s22.csv
+19,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_89s-34.csv
+20,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test431_Shifted Image Test_knight_69s34.csv
+21,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,5,0,null,test431_Shifted Image Test_knight_3s-11.csv
+22,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test431_Shifted Image Test_knight_89s11.csv
+23,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,4,0,null,test431_Shifted Image Test_knight_69s-11.csv
+24,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_55s-34.csv
+25,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_47s-34.csv
+26,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test431_Shifted Image Test_knight_86s22.csv
+27,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test431_Shifted Image Test_knight_47s34.csv
+28,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test431_Shifted Image Test_knight_69s11.csv
+29,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test431_Shifted Image Test_knight_73s22.csv
+30,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test431_Shifted Image Test_knight_26s0.csv
+31,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test431_Shifted Image Test_knight_26s22.csv
+32,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test431_Shifted Image Test_knight_47s-11.csv
+33,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test431_Shifted Image Test_knight_73s-11.csv
+34,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s34.csv
+35,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test431_Shifted Image Test_knight_82s0.csv
+36,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test431_Shifted Image Test_knight_89s0.csv
+37,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s-22.csv
+38,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,3,0,null,test431_Shifted Image Test_knight_69s-22.csv
+39,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_73s-34.csv
+40,82s22.jpg,82s22.jpg,82s22.jpg,null,5,0,null,test431_Shifted Image Test_knight_82s22.csv
+41,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,5,0,null,test431_Shifted Image Test_knight_3s-22.csv
+42,3s0.jpg,3s0.jpg,3s0.jpg,null,5,0,null,test431_Shifted Image Test_knight_3s0.csv
+43,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test431_Shifted Image Test_knight_89s34.csv
+44,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test431_Shifted Image Test_knight_26s-22.csv
+45,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test431_Shifted Image Test_knight_86s0.csv
+46,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test431_Shifted Image Test_knight_104s34.csv
+47,55s11.jpg,55s11.jpg,55s11.jpg,null,5,0,null,test431_Shifted Image Test_knight_55s11.csv
+48,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,5,0,null,test431_Shifted Image Test_knight_89s-22.csv
+49,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test431_Shifted Image Test_knight_55s34.csv
+50,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,5,0,null,test431_Shifted Image Test_knight_73s-22.csv
+51,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,5,0,null,test431_Shifted Image Test_knight_104s-34.csv
+52,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test431_Shifted Image Test_knight_47s22.csv
+53,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test431_Shifted Image Test_knight_26s11.csv
+54,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test431_Shifted Image Test_knight_26s34.csv
+55,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s-11.csv
+56,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s11.csv
+57,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test431_Shifted Image Test_knight_3s11.csv
+58,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test431_Shifted Image Test_knight_47s-22.csv
+59,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_26s-34.csv
+60,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test431_Shifted Image Test_knight_89s22.csv
+61,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test431_Shifted Image Test_knight_73s11.csv
+62,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test431_Shifted Image Test_knight_86s34.csv
+63,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test431_Shifted Image Test_knight_32s0.csv
+64,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test431_Shifted Image Test_knight_82s-34.csv
+65,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,4,0,null,test431_Shifted Image Test_knight_69s-34.csv
+66,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test431_Shifted Image Test_knight_47s0.csv
+67,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,5,0,null,test431_Shifted Image Test_knight_82s-22.csv
+68,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test431_Shifted Image Test_knight_82s-11.csv
+69,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test431_Shifted Image Test_knight_86s11.csv
+70,73s34.jpg,73s34.jpg,73s34.jpg,null,5,0,null,test431_Shifted Image Test_knight_73s34.csv
+71,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,5,0,null,test431_Shifted Image Test_knight_55s-11.csv
+72,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,5,0,null,test431_Shifted Image Test_knight_86s-11.csv
+73,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test431_Shifted Image Test_knight_47s11.csv
+74,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test431_Shifted Image Test_knight_82s34.csv
+75,82s11.jpg,82s11.jpg,82s11.jpg,null,5,0,null,test431_Shifted Image Test_knight_82s11.csv
+76,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test431_Shifted Image Test_knight_3s22.csv
+77,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test431_Shifted Image Test_knight_55s0.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,55:05.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,dsfgjig,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1990/1/1,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_69s0.csv
+2,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_47s0.csv
+3,26s34.jpg,26s34.jpg,26s34.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_26s34.csv
+4,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_89s-11.csv
+5,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_32s-22.csv
+6,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_73s-11.csv
+7,89s0.jpg,89s0.jpg,89s0.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_89s0.csv
+8,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_26s0.csv
+9,32s0.jpg,32s0.jpg,32s0.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_32s0.csv
+10,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_104s-11.csv
+11,26s11.jpg,26s11.jpg,26s11.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_26s11.csv
+12,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_69s-22.csv
+13,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_86s-11.csv
+14,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_82s-34.csv
+15,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_86s22.csv
+16,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_3s34.csv
+17,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_3s-11.csv
+18,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_47s-11.csv
+19,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_69s22.csv
+20,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_55s-11.csv
+21,55s11.jpg,55s11.jpg,55s11.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_55s11.csv
+22,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_73s22.csv
+23,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_73s11.csv
+24,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_86s34.csv
+25,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_69s-34.csv
+26,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_3s11.csv
+27,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_86s-34.csv
+28,32s34.jpg,32s34.jpg,32s34.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_32s34.csv
+29,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_26s22.csv
+30,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_26s-34.csv
+31,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_104s-34.csv
+32,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_82s0.csv
+33,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_55s22.csv
+34,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_26s-11.csv
+35,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_82s34.csv
+36,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_73s-22.csv
+37,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_89s-34.csv
+38,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_47s22.csv
+39,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_32s-11.csv
+40,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_82s11.csv
+41,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_86s0.csv
+42,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_89s34.csv
+43,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_86s11.csv
+44,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_69s-11.csv
+45,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_47s-34.csv
+46,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_89s-22.csv
+47,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_89s11.csv
+48,69s34.jpg,69s34.jpg,69s34.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_69s34.csv
+49,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_47s34.csv
+50,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_104s22.csv
+51,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_3s-34.csv
+52,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_104s0.csv
+53,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_3s0.csv
+54,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_32s22.csv
+55,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_47s-22.csv
+56,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_82s-22.csv
+57,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_26s-22.csv
+58,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_47s11.csv
+59,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_3s-22.csv
+60,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_55s-22.csv
+61,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_55s0.csv
+62,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_104s-22.csv
+63,82s22.jpg,82s22.jpg,82s22.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_82s22.csv
+64,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_3s22.csv
+65,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_73s34.csv
+66,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_55s-34.csv
+67,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_82s-11.csv
+68,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test434_Shifted Image Test_dsfgjig_104s11.csv
+69,55s34.jpg,55s34.jpg,55s34.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_55s34.csv
+70,73s0.jpg,73s0.jpg,73s0.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_73s0.csv
+71,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,2,0,null,test434_Shifted Image Test_dsfgjig_86s-22.csv
+72,32s11.jpg,32s11.jpg,32s11.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_32s11.csv
+73,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test434_Shifted Image Test_dsfgjig_32s-34.csv
+74,89s22.jpg,89s22.jpg,89s22.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_89s22.csv
+75,104s34.jpg,104s34.jpg,104s34.jpg,null,5,0,null,test434_Shifted Image Test_dsfgjig_104s34.csv
+76,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_73s-34.csv
+77,69s11.jpg,69s11.jpg,69s11.jpg,null,3,0,null,test434_Shifted Image Test_dsfgjig_69s11.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,49:05.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,leery24,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1994/10/5,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test437_Shifted Image Test_leery24_89s0.csv
+2,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_3s34.csv
+3,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test437_Shifted Image Test_leery24_82s-11.csv
+4,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test437_Shifted Image Test_leery24_26s-22.csv
+5,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test437_Shifted Image Test_leery24_55s-34.csv
+6,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test437_Shifted Image Test_leery24_26s22.csv
+7,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test437_Shifted Image Test_leery24_73s11.csv
+8,32s34.jpg,32s34.jpg,32s34.jpg,null,2,0,null,test437_Shifted Image Test_leery24_32s34.csv
+9,73s34.jpg,73s34.jpg,73s34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_73s34.csv
+10,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_104s11.csv
+11,3s22.jpg,3s22.jpg,3s22.jpg,null,3,0,null,test437_Shifted Image Test_leery24_3s22.csv
+12,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test437_Shifted Image Test_leery24_26s0.csv
+13,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_86s-11.csv
+14,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,2,0,null,test437_Shifted Image Test_leery24_3s-11.csv
+15,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_86s34.csv
+16,69s34.jpg,69s34.jpg,69s34.jpg,null,3,0,null,test437_Shifted Image Test_leery24_69s34.csv
+17,26s11.jpg,26s11.jpg,26s11.jpg,null,3,0,null,test437_Shifted Image Test_leery24_26s11.csv
+18,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test437_Shifted Image Test_leery24_104s0.csv
+19,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test437_Shifted Image Test_leery24_69s22.csv
+20,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test437_Shifted Image Test_leery24_55s-22.csv
+21,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test437_Shifted Image Test_leery24_3s11.csv
+22,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_104s-34.csv
+23,3s0.jpg,3s0.jpg,3s0.jpg,null,3,0,null,test437_Shifted Image Test_leery24_3s0.csv
+24,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test437_Shifted Image Test_leery24_82s0.csv
+25,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test437_Shifted Image Test_leery24_104s-22.csv
+26,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test437_Shifted Image Test_leery24_3s-22.csv
+27,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,1,0,null,test437_Shifted Image Test_leery24_47s-34.csv
+28,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,1,0,null,test437_Shifted Image Test_leery24_89s-22.csv
+29,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test437_Shifted Image Test_leery24_73s-22.csv
+30,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,1,0,null,test437_Shifted Image Test_leery24_32s-11.csv
+31,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test437_Shifted Image Test_leery24_47s-11.csv
+32,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test437_Shifted Image Test_leery24_32s0.csv
+33,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test437_Shifted Image Test_leery24_69s-34.csv
+34,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test437_Shifted Image Test_leery24_55s22.csv
+35,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test437_Shifted Image Test_leery24_32s-22.csv
+36,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test437_Shifted Image Test_leery24_26s34.csv
+37,104s22.jpg,104s22.jpg,104s22.jpg,null,5,0,null,test437_Shifted Image Test_leery24_104s22.csv
+38,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test437_Shifted Image Test_leery24_104s34.csv
+39,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test437_Shifted Image Test_leery24_73s-34.csv
+40,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,3,0,null,test437_Shifted Image Test_leery24_86s-22.csv
+41,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test437_Shifted Image Test_leery24_89s34.csv
+42,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test437_Shifted Image Test_leery24_73s0.csv
+43,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test437_Shifted Image Test_leery24_32s11.csv
+44,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_86s11.csv
+45,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_55s11.csv
+46,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,2,0,null,test437_Shifted Image Test_leery24_82s-34.csv
+47,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test437_Shifted Image Test_leery24_89s22.csv
+48,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_82s34.csv
+49,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_47s11.csv
+50,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test437_Shifted Image Test_leery24_47s-22.csv
+51,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test437_Shifted Image Test_leery24_32s-34.csv
+52,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test437_Shifted Image Test_leery24_86s-34.csv
+53,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_89s-11.csv
+54,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test437_Shifted Image Test_leery24_86s0.csv
+55,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test437_Shifted Image Test_leery24_73s22.csv
+56,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test437_Shifted Image Test_leery24_26s-11.csv
+57,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,5,0,null,test437_Shifted Image Test_leery24_69s-11.csv
+58,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_55s34.csv
+59,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test437_Shifted Image Test_leery24_69s0.csv
+60,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test437_Shifted Image Test_leery24_89s11.csv
+61,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_55s-11.csv
+62,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_69s11.csv
+63,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,2,0,null,test437_Shifted Image Test_leery24_26s-34.csv
+64,32s22.jpg,32s22.jpg,32s22.jpg,null,2,0,null,test437_Shifted Image Test_leery24_32s22.csv
+65,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,5,0,null,test437_Shifted Image Test_leery24_69s-22.csv
+66,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test437_Shifted Image Test_leery24_47s34.csv
+67,47s0.jpg,47s0.jpg,47s0.jpg,null,5,0,null,test437_Shifted Image Test_leery24_47s0.csv
+68,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_82s11.csv
+69,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,3,0,null,test437_Shifted Image Test_leery24_3s-34.csv
+70,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test437_Shifted Image Test_leery24_47s22.csv
+71,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_104s-11.csv
+72,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test437_Shifted Image Test_leery24_55s0.csv
+73,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test437_Shifted Image Test_leery24_82s-22.csv
+74,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test437_Shifted Image Test_leery24_82s22.csv
+75,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test437_Shifted Image Test_leery24_73s-11.csv
+76,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test437_Shifted Image Test_leery24_86s22.csv
+77,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test437_Shifted Image Test_leery24_89s-34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,25:39.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,Frank,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1992/3/23,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test462_Shifted Image Test_Frank_89s-34.csv
+2,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_86s11.csv
+3,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_89s34.csv
+4,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_104s11.csv
+5,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test462_Shifted Image Test_Frank_3s-22.csv
+6,82s0.jpg,82s0.jpg,82s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_82s0.csv
+7,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,2,0,null,test462_Shifted Image Test_Frank_69s-11.csv
+8,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_89s-22.csv
+9,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_3s11.csv
+10,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_104s34.csv
+11,86s0.jpg,86s0.jpg,86s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_86s0.csv
+12,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_86s-11.csv
+13,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test462_Shifted Image Test_Frank_104s-34.csv
+14,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test462_Shifted Image Test_Frank_86s-34.csv
+15,73s0.jpg,73s0.jpg,73s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_73s0.csv
+16,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_89s-11.csv
+17,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,1,0,null,test462_Shifted Image Test_Frank_69s-22.csv
+18,55s22.jpg,55s22.jpg,55s22.jpg,null,4,0,null,test462_Shifted Image Test_Frank_55s22.csv
+19,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test462_Shifted Image Test_Frank_82s34.csv
+20,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,1,0,null,test462_Shifted Image Test_Frank_3s-34.csv
+21,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test462_Shifted Image Test_Frank_32s-11.csv
+22,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test462_Shifted Image Test_Frank_104s0.csv
+23,55s11.jpg,55s11.jpg,55s11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_55s11.csv
+24,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,2,0,null,test462_Shifted Image Test_Frank_73s-34.csv
+25,26s22.jpg,26s22.jpg,26s22.jpg,null,5,0,null,test462_Shifted Image Test_Frank_26s22.csv
+26,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_26s34.csv
+27,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_89s11.csv
+28,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_55s-11.csv
+29,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_73s11.csv
+30,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test462_Shifted Image Test_Frank_3s22.csv
+31,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_82s-22.csv
+32,26s11.jpg,26s11.jpg,26s11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_26s11.csv
+33,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_69s11.csv
+34,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test462_Shifted Image Test_Frank_69s-34.csv
+35,47s11.jpg,47s11.jpg,47s11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_47s11.csv
+36,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_55s-22.csv
+37,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test462_Shifted Image Test_Frank_104s22.csv
+38,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_55s34.csv
+39,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,2,0,null,test462_Shifted Image Test_Frank_26s-11.csv
+40,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test462_Shifted Image Test_Frank_32s11.csv
+41,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,1,0,null,test462_Shifted Image Test_Frank_26s-34.csv
+42,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test462_Shifted Image Test_Frank_26s-22.csv
+43,82s22.jpg,82s22.jpg,82s22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_82s22.csv
+44,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test462_Shifted Image Test_Frank_47s-22.csv
+45,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_82s-11.csv
+46,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_3s-11.csv
+47,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_104s-11.csv
+48,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_73s-11.csv
+49,55s0.jpg,55s0.jpg,55s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_55s0.csv
+50,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_32s34.csv
+51,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test462_Shifted Image Test_Frank_82s11.csv
+52,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test462_Shifted Image Test_Frank_47s22.csv
+53,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,2,0,null,test462_Shifted Image Test_Frank_73s-22.csv
+54,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_47s34.csv
+55,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,2,0,null,test462_Shifted Image Test_Frank_47s-34.csv
+56,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test462_Shifted Image Test_Frank_55s-34.csv
+57,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_32s22.csv
+58,89s0.jpg,89s0.jpg,89s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_89s0.csv
+59,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_86s34.csv
+60,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_69s34.csv
+61,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_26s0.csv
+62,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test462_Shifted Image Test_Frank_89s22.csv
+63,3s0.jpg,3s0.jpg,3s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_3s0.csv
+64,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_47s0.csv
+65,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test462_Shifted Image Test_Frank_69s0.csv
+66,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test462_Shifted Image Test_Frank_47s-11.csv
+67,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test462_Shifted Image Test_Frank_32s-34.csv
+68,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test462_Shifted Image Test_Frank_73s22.csv
+69,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test462_Shifted Image Test_Frank_32s0.csv
+70,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,2,0,null,test462_Shifted Image Test_Frank_86s-22.csv
+71,86s22.jpg,86s22.jpg,86s22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_86s22.csv
+72,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,2,0,null,test462_Shifted Image Test_Frank_82s-34.csv
+73,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test462_Shifted Image Test_Frank_69s22.csv
+74,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test462_Shifted Image Test_Frank_32s-22.csv
+75,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test462_Shifted Image Test_Frank_104s-22.csv
+76,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_73s34.csv
+77,3s34.jpg,3s34.jpg,3s34.jpg,null,4,0,null,test462_Shifted Image Test_Frank_3s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,36:53.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,zhili1,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1991/2/14,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_32s0.csv
+2,104s0.jpg,104s0.jpg,104s0.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_104s0.csv
+3,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_73s11.csv
+4,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test470_Shifted Image Test_zhili1_86s34.csv
+5,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_32s34.csv
+6,47s11.jpg,47s11.jpg,47s11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_47s11.csv
+7,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_82s-11.csv
+8,69s11.jpg,69s11.jpg,69s11.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_69s11.csv
+9,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_82s11.csv
+10,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_89s0.csv
+11,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_69s-22.csv
+12,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test470_Shifted Image Test_zhili1_32s-34.csv
+13,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_32s22.csv
+14,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_3s11.csv
+15,104s34.jpg,104s34.jpg,104s34.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_104s34.csv
+16,55s22.jpg,55s22.jpg,55s22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_55s22.csv
+17,47s34.jpg,47s34.jpg,47s34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_47s34.csv
+18,3s34.jpg,3s34.jpg,3s34.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_3s34.csv
+19,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_69s-11.csv
+20,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_3s0.csv
+21,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_104s22.csv
+22,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_26s-34.csv
+23,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_26s-22.csv
+24,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_89s-22.csv
+25,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_55s-34.csv
+26,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_32s-22.csv
+27,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_73s-22.csv
+28,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_89s-11.csv
+29,82s34.jpg,82s34.jpg,82s34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_82s34.csv
+30,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_86s-11.csv
+31,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_104s-22.csv
+32,26s34.jpg,26s34.jpg,26s34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_26s34.csv
+33,69s22.jpg,69s22.jpg,69s22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_69s22.csv
+34,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_55s34.csv
+35,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_86s-22.csv
+36,69s34.jpg,69s34.jpg,69s34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_69s34.csv
+37,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_82s-22.csv
+38,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_32s11.csv
+39,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_104s-34.csv
+40,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_86s22.csv
+41,26s11.jpg,26s11.jpg,26s11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_26s11.csv
+42,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_47s-22.csv
+43,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_32s-11.csv
+44,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_26s0.csv
+45,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_47s-11.csv
+46,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_55s-11.csv
+47,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_55s0.csv
+48,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_3s-11.csv
+49,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_104s-11.csv
+50,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_73s-11.csv
+51,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_104s11.csv
+52,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_73s-34.csv
+53,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_69s0.csv
+54,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_3s-34.csv
+55,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_86s11.csv
+56,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_89s-34.csv
+57,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_47s0.csv
+58,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_3s22.csv
+59,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_89s11.csv
+60,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_73s34.csv
+61,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_26s-11.csv
+62,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test470_Shifted Image Test_zhili1_69s-34.csv
+63,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_73s0.csv
+64,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_86s-34.csv
+65,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_73s22.csv
+66,82s0.jpg,82s0.jpg,82s0.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_82s0.csv
+67,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_55s11.csv
+68,47s22.jpg,47s22.jpg,47s22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_47s22.csv
+69,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,2,0,null,test470_Shifted Image Test_zhili1_47s-34.csv
+70,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_3s-22.csv
+71,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_86s0.csv
+72,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_82s-34.csv
+73,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_82s22.csv
+74,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_26s22.csv
+75,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test470_Shifted Image Test_zhili1_55s-22.csv
+76,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_89s22.csv
+77,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test470_Shifted Image Test_zhili1_89s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,18:30.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,cxqjiafeimao,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1991/5/7,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_3s34.csv
+2,89s34.jpg,89s34.jpg,89s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_89s34.csv
+3,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_3s-34.csv
+4,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_47s-34.csv
+5,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_47s-11.csv
+6,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_69s-11.csv
+7,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_104s-11.csv
+8,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_86s22.csv
+9,26s11.jpg,26s11.jpg,26s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_26s11.csv
+10,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_3s22.csv
+11,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_73s-22.csv
+12,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s34.csv
+13,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_82s-22.csv
+14,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s0.csv
+15,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_89s-34.csv
+16,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_69s-22.csv
+17,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s-11.csv
+18,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_47s11.csv
+19,32s22.jpg,32s22.jpg,32s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_32s22.csv
+20,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_47s34.csv
+21,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_82s11.csv
+22,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_32s11.csv
+23,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_47s22.csv
+24,104s22.jpg,104s22.jpg,104s22.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_104s22.csv
+25,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_26s-22.csv
+26,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_89s-11.csv
+27,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s-34.csv
+28,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_82s-11.csv
+29,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_104s-34.csv
+30,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_89s-22.csv
+31,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s-22.csv
+32,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_3s11.csv
+33,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_26s-34.csv
+34,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_69s-34.csv
+35,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_26s-11.csv
+36,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_3s-22.csv
+37,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_69s0.csv
+38,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_104s-22.csv
+39,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_32s-34.csv
+40,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_82s-34.csv
+41,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_73s0.csv
+42,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_104s0.csv
+43,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_89s11.csv
+44,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_104s11.csv
+45,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_73s11.csv
+46,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_73s-11.csv
+47,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s22.csv
+48,89s0.jpg,89s0.jpg,89s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_89s0.csv
+49,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_73s22.csv
+50,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_86s0.csv
+51,104s34.jpg,104s34.jpg,104s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_104s34.csv
+52,73s34.jpg,73s34.jpg,73s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_73s34.csv
+53,82s0.jpg,82s0.jpg,82s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_82s0.csv
+54,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_82s22.csv
+55,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_73s-34.csv
+56,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_47s0.csv
+57,69s11.jpg,69s11.jpg,69s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_69s11.csv
+58,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_32s-11.csv
+59,69s34.jpg,69s34.jpg,69s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_69s34.csv
+60,26s0.jpg,26s0.jpg,26s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_26s0.csv
+61,55s11.jpg,55s11.jpg,55s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_55s11.csv
+62,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_3s-11.csv
+63,26s34.jpg,26s34.jpg,26s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_26s34.csv
+64,89s22.jpg,89s22.jpg,89s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_89s22.csv
+65,32s34.jpg,32s34.jpg,32s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_32s34.csv
+66,26s22.jpg,26s22.jpg,26s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_26s22.csv
+67,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_47s-22.csv
+68,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_86s-22.csv
+69,32s0.jpg,32s0.jpg,32s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_32s0.csv
+70,3s0.jpg,3s0.jpg,3s0.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_3s0.csv
+71,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_86s11.csv
+72,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_86s-11.csv
+73,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,4,0,null,test503_Shifted Image Test_cxqjiafeimao_86s-34.csv
+74,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test503_Shifted Image Test_cxqjiafeimao_32s-22.csv
+75,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_69s22.csv
+76,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_86s34.csv
+77,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test503_Shifted Image Test_cxqjiafeimao_82s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,50:08.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,joe w,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1994/9/17,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,104s11.jpg,104s11.jpg,104s11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_104s11.csv
+2,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test506_Shifted Image Test_joe w_73s0.csv
+3,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,2,0,null,test506_Shifted Image Test_joe w_3s-34.csv
+4,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_73s-11.csv
+5,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,1,0,null,test506_Shifted Image Test_joe w_26s-34.csv
+6,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test506_Shifted Image Test_joe w_104s-22.csv
+7,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,1,0,null,test506_Shifted Image Test_joe w_32s-34.csv
+8,89s22.jpg,89s22.jpg,89s22.jpg,null,3,0,null,test506_Shifted Image Test_joe w_89s22.csv
+9,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test506_Shifted Image Test_joe w_86s22.csv
+10,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test506_Shifted Image Test_joe w_55s34.csv
+11,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,1,0,null,test506_Shifted Image Test_joe w_32s-11.csv
+12,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test506_Shifted Image Test_joe w_47s-22.csv
+13,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test506_Shifted Image Test_joe w_26s-22.csv
+14,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test506_Shifted Image Test_joe w_86s11.csv
+15,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test506_Shifted Image Test_joe w_89s-11.csv
+16,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_26s0.csv
+17,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test506_Shifted Image Test_joe w_73s-22.csv
+18,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,1,0,null,test506_Shifted Image Test_joe w_69s-11.csv
+19,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,2,0,null,test506_Shifted Image Test_joe w_82s-22.csv
+20,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test506_Shifted Image Test_joe w_3s-11.csv
+21,104s0.jpg,104s0.jpg,104s0.jpg,null,5,0,null,test506_Shifted Image Test_joe w_104s0.csv
+22,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test506_Shifted Image Test_joe w_86s34.csv
+23,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_55s0.csv
+24,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test506_Shifted Image Test_joe w_32s34.csv
+25,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_86s0.csv
+26,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test506_Shifted Image Test_joe w_55s-34.csv
+27,47s22.jpg,47s22.jpg,47s22.jpg,null,4,0,null,test506_Shifted Image Test_joe w_47s22.csv
+28,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_47s11.csv
+29,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test506_Shifted Image Test_joe w_73s-34.csv
+30,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test506_Shifted Image Test_joe w_73s11.csv
+31,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test506_Shifted Image Test_joe w_86s-34.csv
+32,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,1,0,null,test506_Shifted Image Test_joe w_32s-22.csv
+33,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test506_Shifted Image Test_joe w_32s0.csv
+34,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test506_Shifted Image Test_joe w_32s22.csv
+35,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test506_Shifted Image Test_joe w_104s-11.csv
+36,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,1,0,null,test506_Shifted Image Test_joe w_69s-22.csv
+37,89s0.jpg,89s0.jpg,89s0.jpg,null,3,0,null,test506_Shifted Image Test_joe w_89s0.csv
+38,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_82s0.csv
+39,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test506_Shifted Image Test_joe w_55s-22.csv
+40,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test506_Shifted Image Test_joe w_73s34.csv
+41,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,2,0,null,test506_Shifted Image Test_joe w_86s-22.csv
+42,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_47s0.csv
+43,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test506_Shifted Image Test_joe w_26s22.csv
+44,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test506_Shifted Image Test_joe w_47s-11.csv
+45,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test506_Shifted Image Test_joe w_73s22.csv
+46,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,2,0,null,test506_Shifted Image Test_joe w_104s-34.csv
+47,82s22.jpg,82s22.jpg,82s22.jpg,null,3,0,null,test506_Shifted Image Test_joe w_82s22.csv
+48,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_82s11.csv
+49,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test506_Shifted Image Test_joe w_82s34.csv
+50,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test506_Shifted Image Test_joe w_69s22.csv
+51,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test506_Shifted Image Test_joe w_89s34.csv
+52,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test506_Shifted Image Test_joe w_55s-11.csv
+53,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,1,0,null,test506_Shifted Image Test_joe w_69s-34.csv
+54,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,2,0,null,test506_Shifted Image Test_joe w_89s-22.csv
+55,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test506_Shifted Image Test_joe w_55s22.csv
+56,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_86s-11.csv
+57,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test506_Shifted Image Test_joe w_32s11.csv
+58,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_69s0.csv
+59,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test506_Shifted Image Test_joe w_47s34.csv
+60,69s34.jpg,69s34.jpg,69s34.jpg,null,5,0,null,test506_Shifted Image Test_joe w_69s34.csv
+61,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_26s-11.csv
+62,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test506_Shifted Image Test_joe w_3s-22.csv
+63,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,2,0,null,test506_Shifted Image Test_joe w_82s-34.csv
+64,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_69s11.csv
+65,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test506_Shifted Image Test_joe w_3s22.csv
+66,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test506_Shifted Image Test_joe w_82s-11.csv
+67,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test506_Shifted Image Test_joe w_3s11.csv
+68,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test506_Shifted Image Test_joe w_104s22.csv
+69,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_26s11.csv
+70,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test506_Shifted Image Test_joe w_55s11.csv
+71,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test506_Shifted Image Test_joe w_89s-34.csv
+72,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test506_Shifted Image Test_joe w_104s34.csv
+73,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test506_Shifted Image Test_joe w_3s0.csv
+74,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test506_Shifted Image Test_joe w_89s11.csv
+75,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,1,0,null,test506_Shifted Image Test_joe w_47s-34.csv
+76,26s34.jpg,26s34.jpg,26s34.jpg,null,5,0,null,test506_Shifted Image Test_joe w_26s34.csv
+77,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test506_Shifted Image Test_joe w_3s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,48:21.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,mrfranken,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1992/3/2,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,89s34.jpg,89s34.jpg,89s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_89s34.csv
+2,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_3s-22.csv
+3,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_55s34.csv
+4,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_89s-22.csv
+5,82s11.jpg,82s11.jpg,82s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s11.csv
+6,73s0.jpg,73s0.jpg,73s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_73s0.csv
+7,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_69s0.csv
+8,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_69s-22.csv
+9,32s0.jpg,32s0.jpg,32s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_32s0.csv
+10,104s34.jpg,104s34.jpg,104s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_104s34.csv
+11,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_32s-11.csv
+12,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_3s34.csv
+13,69s11.jpg,69s11.jpg,69s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_69s11.csv
+14,89s0.jpg,89s0.jpg,89s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_89s0.csv
+15,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_73s22.csv
+16,26s11.jpg,26s11.jpg,26s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_26s11.csv
+17,3s0.jpg,3s0.jpg,3s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_3s0.csv
+18,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_55s-11.csv
+19,32s11.jpg,32s11.jpg,32s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_32s11.csv
+20,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_89s-11.csv
+21,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_86s34.csv
+22,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_104s11.csv
+23,47s0.jpg,47s0.jpg,47s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s0.csv
+24,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_104s-22.csv
+25,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_104s0.csv
+26,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test513_Shifted Image Test_mrfranken_26s22.csv
+27,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_32s22.csv
+28,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_86s-11.csv
+29,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_86s0.csv
+30,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s-22.csv
+31,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s22.csv
+32,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_104s-34.csv
+33,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_26s-11.csv
+34,73s11.jpg,73s11.jpg,73s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_73s11.csv
+35,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_86s22.csv
+36,55s11.jpg,55s11.jpg,55s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_55s11.csv
+37,3s11.jpg,3s11.jpg,3s11.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_3s11.csv
+38,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_3s-34.csv
+39,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_89s11.csv
+40,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_32s-34.csv
+41,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test513_Shifted Image Test_mrfranken_104s-11.csv
+42,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_73s34.csv
+43,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_55s-22.csv
+44,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s-22.csv
+45,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_86s-34.csv
+46,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s11.csv
+47,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_89s-34.csv
+48,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_73s-22.csv
+49,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s-34.csv
+50,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_69s-11.csv
+51,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_73s-11.csv
+52,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test513_Shifted Image Test_mrfranken_26s0.csv
+53,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,3,0,null,test513_Shifted Image Test_mrfranken_69s-34.csv
+54,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_26s-22.csv
+55,82s0.jpg,82s0.jpg,82s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s0.csv
+56,32s34.jpg,32s34.jpg,32s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_32s34.csv
+57,89s22.jpg,89s22.jpg,89s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_89s22.csv
+58,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_3s-11.csv
+59,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_32s-22.csv
+60,69s22.jpg,69s22.jpg,69s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_69s22.csv
+61,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_86s-22.csv
+62,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_55s-34.csv
+63,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_86s11.csv
+64,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_73s-34.csv
+65,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s34.csv
+66,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_104s22.csv
+67,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_3s22.csv
+68,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s-11.csv
+69,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s-34.csv
+70,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_55s22.csv
+71,26s34.jpg,26s34.jpg,26s34.jpg,null,3,0,null,test513_Shifted Image Test_mrfranken_26s34.csv
+72,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s34.csv
+73,82s22.jpg,82s22.jpg,82s22.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_82s22.csv
+74,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_26s-34.csv
+75,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_47s-11.csv
+76,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test513_Shifted Image Test_mrfranken_55s0.csv
+77,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test513_Shifted Image Test_mrfranken_69s34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,04:25.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,zjzz123,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1992/6/22,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,69s34.jpg,69s34.jpg,69s34.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_69s34.csv
+2,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_55s-34.csv
+3,89s11.jpg,89s11.jpg,89s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_89s11.csv
+4,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_32s-11.csv
+5,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_69s11.csv
+6,86s0.jpg,86s0.jpg,86s0.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_86s0.csv
+7,55s0.jpg,55s0.jpg,55s0.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_55s0.csv
+8,47s11.jpg,47s11.jpg,47s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_47s11.csv
+9,89s0.jpg,89s0.jpg,89s0.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_89s0.csv
+10,26s11.jpg,26s11.jpg,26s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_26s11.csv
+11,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_86s-34.csv
+12,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_3s-11.csv
+13,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_104s11.csv
+14,82s22.jpg,82s22.jpg,82s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_82s22.csv
+15,47s34.jpg,47s34.jpg,47s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_47s34.csv
+16,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_26s-22.csv
+17,104s34.jpg,104s34.jpg,104s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_104s34.csv
+18,47s0.jpg,47s0.jpg,47s0.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_47s0.csv
+19,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_104s-11.csv
+20,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_86s-22.csv
+21,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_69s0.csv
+22,89s22.jpg,89s22.jpg,89s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_89s22.csv
+23,26s34.jpg,26s34.jpg,26s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_26s34.csv
+24,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_89s-34.csv
+25,73s34.jpg,73s34.jpg,73s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_73s34.csv
+26,55s11.jpg,55s11.jpg,55s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_55s11.csv
+27,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test516_Shifted Image Test_zjzz123_32s-22.csv
+28,86s11.jpg,86s11.jpg,86s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_86s11.csv
+29,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_69s-11.csv
+30,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_3s-22.csv
+31,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_69s-22.csv
+32,89s34.jpg,89s34.jpg,89s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_89s34.csv
+33,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_26s-11.csv
+34,3s0.jpg,3s0.jpg,3s0.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_3s0.csv
+35,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_47s22.csv
+36,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_82s-22.csv
+37,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_47s-22.csv
+38,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_73s-22.csv
+39,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_26s-34.csv
+40,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_82s-34.csv
+41,73s22.jpg,73s22.jpg,73s22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_73s22.csv
+42,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_32s11.csv
+43,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_55s22.csv
+44,104s22.jpg,104s22.jpg,104s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_104s22.csv
+45,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_89s-22.csv
+46,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_104s0.csv
+47,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_86s34.csv
+48,86s22.jpg,86s22.jpg,86s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_86s22.csv
+49,55s34.jpg,55s34.jpg,55s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_55s34.csv
+50,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_32s22.csv
+51,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_55s-22.csv
+52,32s34.jpg,32s34.jpg,32s34.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_32s34.csv
+53,3s11.jpg,3s11.jpg,3s11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_3s11.csv
+54,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_32s0.csv
+55,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_26s0.csv
+56,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test516_Shifted Image Test_zjzz123_32s-34.csv
+57,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_82s-11.csv
+58,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_82s0.csv
+59,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_89s-11.csv
+60,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test516_Shifted Image Test_zjzz123_69s-34.csv
+61,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_104s-22.csv
+62,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_73s11.csv
+63,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,2,0,null,test516_Shifted Image Test_zjzz123_3s-34.csv
+64,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_47s-11.csv
+65,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_86s-11.csv
+66,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_55s-11.csv
+67,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_47s-34.csv
+68,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_26s22.csv
+69,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test516_Shifted Image Test_zjzz123_73s-34.csv
+70,3s22.jpg,3s22.jpg,3s22.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_3s22.csv
+71,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_3s34.csv
+72,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_69s22.csv
+73,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_82s11.csv
+74,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_73s0.csv
+75,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_82s34.csv
+76,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,5,0,null,test516_Shifted Image Test_zjzz123_73s-11.csv
+77,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test516_Shifted Image Test_zjzz123_104s-34.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,47:10.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,609lab,,,,,,,
+性别,FALSE,,,,,,,
+年龄,1991/6/24,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_89s-11.csv
+2,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_47s-34.csv
+3,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test519_Shifted Image Test_609lab_47s22.csv
+4,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_104s-34.csv
+5,3s34.jpg,3s34.jpg,3s34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_3s34.csv
+6,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test519_Shifted Image Test_609lab_47s-11.csv
+7,73s0.jpg,73s0.jpg,73s0.jpg,null,2,0,null,test519_Shifted Image Test_609lab_73s0.csv
+8,104s22.jpg,104s22.jpg,104s22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_104s22.csv
+9,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_73s22.csv
+10,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_89s11.csv
+11,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_73s11.csv
+12,69s11.jpg,69s11.jpg,69s11.jpg,null,1,0,null,test519_Shifted Image Test_609lab_69s11.csv
+13,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test519_Shifted Image Test_609lab_32s-11.csv
+14,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_89s-34.csv
+15,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_3s-22.csv
+16,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_104s-22.csv
+17,89s0.jpg,89s0.jpg,89s0.jpg,null,2,0,null,test519_Shifted Image Test_609lab_89s0.csv
+18,55s34.jpg,55s34.jpg,55s34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_55s34.csv
+19,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_69s-34.csv
+20,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,4,0,null,test519_Shifted Image Test_609lab_26s-34.csv
+21,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_55s11.csv
+22,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_55s-22.csv
+23,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,3,0,null,test519_Shifted Image Test_609lab_86s-11.csv
+24,69s0.jpg,69s0.jpg,69s0.jpg,null,2,0,null,test519_Shifted Image Test_609lab_69s0.csv
+25,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_32s34.csv
+26,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test519_Shifted Image Test_609lab_89s34.csv
+27,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,2,0,null,test519_Shifted Image Test_609lab_69s-11.csv
+28,82s11.jpg,82s11.jpg,82s11.jpg,null,3,0,null,test519_Shifted Image Test_609lab_82s11.csv
+29,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_55s-11.csv
+30,32s0.jpg,32s0.jpg,32s0.jpg,null,2,0,null,test519_Shifted Image Test_609lab_32s0.csv
+31,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_26s22.csv
+32,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_32s-22.csv
+33,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_26s-22.csv
+34,69s34.jpg,69s34.jpg,69s34.jpg,null,1,0,null,test519_Shifted Image Test_609lab_69s34.csv
+35,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_82s-22.csv
+36,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test519_Shifted Image Test_609lab_47s0.csv
+37,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_82s-34.csv
+38,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test519_Shifted Image Test_609lab_86s0.csv
+39,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test519_Shifted Image Test_609lab_82s34.csv
+40,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_32s-34.csv
+41,3s22.jpg,3s22.jpg,3s22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_3s22.csv
+42,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test519_Shifted Image Test_609lab_26s0.csv
+43,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_73s34.csv
+44,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test519_Shifted Image Test_609lab_104s-11.csv
+45,47s11.jpg,47s11.jpg,47s11.jpg,null,2,0,null,test519_Shifted Image Test_609lab_47s11.csv
+46,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_86s-34.csv
+47,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test519_Shifted Image Test_609lab_55s0.csv
+48,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test519_Shifted Image Test_609lab_82s22.csv
+49,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_73s-11.csv
+50,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_89s-22.csv
+51,104s11.jpg,104s11.jpg,104s11.jpg,null,5,0,null,test519_Shifted Image Test_609lab_104s11.csv
+52,26s11.jpg,26s11.jpg,26s11.jpg,null,5,0,null,test519_Shifted Image Test_609lab_26s11.csv
+53,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_47s-22.csv
+54,32s11.jpg,32s11.jpg,32s11.jpg,null,2,0,null,test519_Shifted Image Test_609lab_32s11.csv
+55,3s11.jpg,3s11.jpg,3s11.jpg,null,3,0,null,test519_Shifted Image Test_609lab_3s11.csv
+56,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,1,0,null,test519_Shifted Image Test_609lab_3s-34.csv
+57,89s22.jpg,89s22.jpg,89s22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_89s22.csv
+58,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_73s-34.csv
+59,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_32s22.csv
+60,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_69s-22.csv
+61,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_86s-22.csv
+62,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_82s-11.csv
+63,69s22.jpg,69s22.jpg,69s22.jpg,null,2,0,null,test519_Shifted Image Test_609lab_69s22.csv
+64,55s22.jpg,55s22.jpg,55s22.jpg,null,4,0,null,test519_Shifted Image Test_609lab_55s22.csv
+65,104s0.jpg,104s0.jpg,104s0.jpg,null,4,0,null,test519_Shifted Image Test_609lab_104s0.csv
+66,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test519_Shifted Image Test_609lab_55s-34.csv
+67,3s0.jpg,3s0.jpg,3s0.jpg,null,2,0,null,test519_Shifted Image Test_609lab_3s0.csv
+68,104s34.jpg,104s34.jpg,104s34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_104s34.csv
+69,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test519_Shifted Image Test_609lab_73s-22.csv
+70,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_26s-11.csv
+71,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test519_Shifted Image Test_609lab_86s34.csv
+72,47s34.jpg,47s34.jpg,47s34.jpg,null,3,0,null,test519_Shifted Image Test_609lab_47s34.csv
+73,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,2,0,null,test519_Shifted Image Test_609lab_3s-11.csv
+74,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test519_Shifted Image Test_609lab_86s11.csv
+75,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test519_Shifted Image Test_609lab_26s34.csv
+76,82s0.jpg,82s0.jpg,82s0.jpg,null,2,0,null,test519_Shifted Image Test_609lab_82s0.csv
+77,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test519_Shifted Image Test_609lab_86s22.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,29:01.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,whk990,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1990/9/15,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test520_Shifted Image Test_whk990_82s22.csv
+2,69s22.jpg,69s22.jpg,69s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_69s22.csv
+3,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test520_Shifted Image Test_whk990_104s22.csv
+4,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_55s-11.csv
+5,73s11.jpg,73s11.jpg,73s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_73s11.csv
+6,73s0.jpg,73s0.jpg,73s0.jpg,null,2,0,null,test520_Shifted Image Test_whk990_73s0.csv
+7,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,2,0,null,test520_Shifted Image Test_whk990_3s-22.csv
+8,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,4,0,null,test520_Shifted Image Test_whk990_104s-11.csv
+9,69s0.jpg,69s0.jpg,69s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_69s0.csv
+10,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test520_Shifted Image Test_whk990_89s0.csv
+11,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_32s-22.csv
+12,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_104s34.csv
+13,3s11.jpg,3s11.jpg,3s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_3s11.csv
+14,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_26s-22.csv
+15,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_82s-34.csv
+16,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,2,0,null,test520_Shifted Image Test_whk990_32s-11.csv
+17,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_32s0.csv
+18,86s22.jpg,86s22.jpg,86s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_86s22.csv
+19,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_89s34.csv
+20,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_47s34.csv
+21,32s22.jpg,32s22.jpg,32s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_32s22.csv
+22,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_47s-11.csv
+23,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_69s-11.csv
+24,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_73s-11.csv
+25,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,2,0,null,test520_Shifted Image Test_whk990_32s-34.csv
+26,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_55s-22.csv
+27,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test520_Shifted Image Test_whk990_55s0.csv
+28,26s22.jpg,26s22.jpg,26s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_26s22.csv
+29,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_86s-34.csv
+30,32s11.jpg,32s11.jpg,32s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_32s11.csv
+31,82s34.jpg,82s34.jpg,82s34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_82s34.csv
+32,86s34.jpg,86s34.jpg,86s34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_86s34.csv
+33,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test520_Shifted Image Test_whk990_82s0.csv
+34,55s34.jpg,55s34.jpg,55s34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_55s34.csv
+35,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_26s34.csv
+36,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_89s-11.csv
+37,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_47s0.csv
+38,89s22.jpg,89s22.jpg,89s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_89s22.csv
+39,86s11.jpg,86s11.jpg,86s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_86s11.csv
+40,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_86s-22.csv
+41,73s34.jpg,73s34.jpg,73s34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_73s34.csv
+42,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_104s11.csv
+43,26s11.jpg,26s11.jpg,26s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_26s11.csv
+44,73s22.jpg,73s22.jpg,73s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_73s22.csv
+45,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_82s-11.csv
+46,3s0.jpg,3s0.jpg,3s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_3s0.csv
+47,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_89s-34.csv
+48,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test520_Shifted Image Test_whk990_89s11.csv
+49,69s11.jpg,69s11.jpg,69s11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_69s11.csv
+50,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,2,0,null,test520_Shifted Image Test_whk990_73s-22.csv
+51,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,2,0,null,test520_Shifted Image Test_whk990_55s-34.csv
+52,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_89s-22.csv
+53,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_32s34.csv
+54,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test520_Shifted Image Test_whk990_104s-34.csv
+55,3s34.jpg,3s34.jpg,3s34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_3s34.csv
+56,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_3s-11.csv
+57,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_82s-22.csv
+58,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,2,0,null,test520_Shifted Image Test_whk990_47s-34.csv
+59,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_3s-34.csv
+60,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test520_Shifted Image Test_whk990_47s11.csv
+61,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_86s-11.csv
+62,82s11.jpg,82s11.jpg,82s11.jpg,null,4,0,null,test520_Shifted Image Test_whk990_82s11.csv
+63,55s22.jpg,55s22.jpg,55s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_55s22.csv
+64,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_104s-22.csv
+65,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test520_Shifted Image Test_whk990_55s11.csv
+66,3s22.jpg,3s22.jpg,3s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_3s22.csv
+67,47s22.jpg,47s22.jpg,47s22.jpg,null,3,0,null,test520_Shifted Image Test_whk990_47s22.csv
+68,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_26s-34.csv
+69,26s0.jpg,26s0.jpg,26s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_26s0.csv
+70,104s0.jpg,104s0.jpg,104s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_104s0.csv
+71,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,3,0,null,test520_Shifted Image Test_whk990_26s-11.csv
+72,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,2,0,null,test520_Shifted Image Test_whk990_73s-34.csv
+73,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,2,0,null,test520_Shifted Image Test_whk990_69s-22.csv
+74,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,2,0,null,test520_Shifted Image Test_whk990_69s-34.csv
+75,69s34.jpg,69s34.jpg,69s34.jpg,null,3,0,null,test520_Shifted Image Test_whk990_69s34.csv
+76,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,2,0,null,test520_Shifted Image Test_whk990_47s-22.csv
+77,86s0.jpg,86s0.jpg,86s0.jpg,null,3,0,null,test520_Shifted Image Test_whk990_86s0.csv
+,,,,,,,,
+,,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+测试类型,TRUE,,,,,,,
+开始时间,08:49.0,,,,,,,
+完成时间,null,,,,,,,
+测试评级,0,,,,,,,
+ParticipantName,suchen,,,,,,,
+性别,TRUE,,,,,,,
+年龄,1992/3/23,,,,,,,
+注册日期,null,,,,,,,
+--------------------------------,--------------------------------,,,,,,,
+[###, 图片名, 左图名, 右图名, 图片描述, 评分, 给分时常, 打分时间, 眼动文件]
+1,73s34.jpg,73s34.jpg,73s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_73s34.csv
+2,3s11.jpg,3s11.jpg,3s11.jpg,null,3,0,null,test523_Shifted Image Test_suchen_3s11.csv
+3,73s-11.jpg,73s-11.jpg,73s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_73s-11.csv
+4,3s0.jpg,3s0.jpg,3s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_3s0.csv
+5,32s11.jpg,32s11.jpg,32s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_32s11.csv
+6,3s-11.jpg,3s-11.jpg,3s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_3s-11.csv
+7,32s34.jpg,32s34.jpg,32s34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_32s34.csv
+8,73s0.jpg,73s0.jpg,73s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_73s0.csv
+9,3s-22.jpg,3s-22.jpg,3s-22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_3s-22.csv
+10,26s34.jpg,26s34.jpg,26s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_26s34.csv
+11,69s34.jpg,69s34.jpg,69s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_69s34.csv
+12,89s34.jpg,89s34.jpg,89s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_89s34.csv
+13,89s11.jpg,89s11.jpg,89s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_89s11.csv
+14,47s0.jpg,47s0.jpg,47s0.jpg,null,3,0,null,test523_Shifted Image Test_suchen_47s0.csv
+15,3s-34.jpg,3s-34.jpg,3s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_3s-34.csv
+16,32s-11.jpg,32s-11.jpg,32s-11.jpg,null,3,0,null,test523_Shifted Image Test_suchen_32s-11.csv
+17,55s-11.jpg,55s-11.jpg,55s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_55s-11.csv
+18,47s-11.jpg,47s-11.jpg,47s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_47s-11.csv
+19,3s22.jpg,3s22.jpg,3s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_3s22.csv
+20,26s-11.jpg,26s-11.jpg,26s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_26s-11.csv
+21,55s34.jpg,55s34.jpg,55s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_55s34.csv
+22,86s34.jpg,86s34.jpg,86s34.jpg,null,5,0,null,test523_Shifted Image Test_suchen_86s34.csv
+23,55s-22.jpg,55s-22.jpg,55s-22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_55s-22.csv
+24,104s-22.jpg,104s-22.jpg,104s-22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_104s-22.csv
+25,104s22.jpg,104s22.jpg,104s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_104s22.csv
+26,89s22.jpg,89s22.jpg,89s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_89s22.csv
+27,89s-11.jpg,89s-11.jpg,89s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_89s-11.csv
+28,89s-22.jpg,89s-22.jpg,89s-22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_89s-22.csv
+29,82s0.jpg,82s0.jpg,82s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_82s0.csv
+30,32s22.jpg,32s22.jpg,32s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_32s22.csv
+31,47s-22.jpg,47s-22.jpg,47s-22.jpg,null,5,0,null,test523_Shifted Image Test_suchen_47s-22.csv
+32,69s-34.jpg,69s-34.jpg,69s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_69s-34.csv
+33,104s34.jpg,104s34.jpg,104s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_104s34.csv
+34,47s11.jpg,47s11.jpg,47s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_47s11.csv
+35,32s-34.jpg,32s-34.jpg,32s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_32s-34.csv
+36,47s-34.jpg,47s-34.jpg,47s-34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_47s-34.csv
+37,73s22.jpg,73s22.jpg,73s22.jpg,null,5,0,null,test523_Shifted Image Test_suchen_73s22.csv
+38,26s11.jpg,26s11.jpg,26s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_26s11.csv
+39,26s-22.jpg,26s-22.jpg,26s-22.jpg,null,3,0,null,test523_Shifted Image Test_suchen_26s-22.csv
+40,82s-34.jpg,82s-34.jpg,82s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_82s-34.csv
+41,73s-22.jpg,73s-22.jpg,73s-22.jpg,null,3,0,null,test523_Shifted Image Test_suchen_73s-22.csv
+42,104s11.jpg,104s11.jpg,104s11.jpg,null,3,0,null,test523_Shifted Image Test_suchen_104s11.csv
+43,104s0.jpg,104s0.jpg,104s0.jpg,null,3,0,null,test523_Shifted Image Test_suchen_104s0.csv
+44,69s0.jpg,69s0.jpg,69s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_69s0.csv
+45,26s-34.jpg,26s-34.jpg,26s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_26s-34.csv
+46,86s-34.jpg,86s-34.jpg,86s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_86s-34.csv
+47,82s22.jpg,82s22.jpg,82s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_82s22.csv
+48,26s22.jpg,26s22.jpg,26s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_26s22.csv
+49,104s-11.jpg,104s-11.jpg,104s-11.jpg,null,3,0,null,test523_Shifted Image Test_suchen_104s-11.csv
+50,32s0.jpg,32s0.jpg,32s0.jpg,null,3,0,null,test523_Shifted Image Test_suchen_32s0.csv
+51,86s11.jpg,86s11.jpg,86s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_86s11.csv
+52,55s-34.jpg,55s-34.jpg,55s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_55s-34.csv
+53,86s-22.jpg,86s-22.jpg,86s-22.jpg,null,3,0,null,test523_Shifted Image Test_suchen_86s-22.csv
+54,69s-22.jpg,69s-22.jpg,69s-22.jpg,null,3,0,null,test523_Shifted Image Test_suchen_69s-22.csv
+55,32s-22.jpg,32s-22.jpg,32s-22.jpg,null,3,0,null,test523_Shifted Image Test_suchen_32s-22.csv
+56,104s-34.jpg,104s-34.jpg,104s-34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_104s-34.csv
+57,26s0.jpg,26s0.jpg,26s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_26s0.csv
+58,86s0.jpg,86s0.jpg,86s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_86s0.csv
+59,55s11.jpg,55s11.jpg,55s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_55s11.csv
+60,73s11.jpg,73s11.jpg,73s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_73s11.csv
+61,82s-11.jpg,82s-11.jpg,82s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_82s-11.csv
+62,69s22.jpg,69s22.jpg,69s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_69s22.csv
+63,55s0.jpg,55s0.jpg,55s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_55s0.csv
+64,82s-22.jpg,82s-22.jpg,82s-22.jpg,null,3,0,null,test523_Shifted Image Test_suchen_82s-22.csv
+65,69s11.jpg,69s11.jpg,69s11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_69s11.csv
+66,86s22.jpg,86s22.jpg,86s22.jpg,null,4,0,null,test523_Shifted Image Test_suchen_86s22.csv
+67,82s34.jpg,82s34.jpg,82s34.jpg,null,5,0,null,test523_Shifted Image Test_suchen_82s34.csv
+68,86s-11.jpg,86s-11.jpg,86s-11.jpg,null,4,0,null,test523_Shifted Image Test_suchen_86s-11.csv
+69,47s22.jpg,47s22.jpg,47s22.jpg,null,5,0,null,test523_Shifted Image Test_suchen_47s22.csv
+70,82s11.jpg,82s11.jpg,82s11.jpg,null,5,0,null,test523_Shifted Image Test_suchen_82s11.csv
+71,55s22.jpg,55s22.jpg,55s22.jpg,null,5,0,null,test523_Shifted Image Test_suchen_55s22.csv
+72,3s34.jpg,3s34.jpg,3s34.jpg,null,5,0,null,test523_Shifted Image Test_suchen_3s34.csv
+73,89s-34.jpg,89s-34.jpg,89s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_89s-34.csv
+74,69s-11.jpg,69s-11.jpg,69s-11.jpg,null,3,0,null,test523_Shifted Image Test_suchen_69s-11.csv
+75,47s34.jpg,47s34.jpg,47s34.jpg,null,4,0,null,test523_Shifted Image Test_suchen_47s34.csv
+76,89s0.jpg,89s0.jpg,89s0.jpg,null,4,0,null,test523_Shifted Image Test_suchen_89s0.csv
+77,73s-34.jpg,73s-34.jpg,73s-34.jpg,null,3,0,null,test523_Shifted Image Test_suchen_73s-34.csv
