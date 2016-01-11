@@ -46,7 +46,7 @@
   \subfigure[]{
     \label{fig:104_l} %% label for second subfigure
     \includegraphics[width=0.3\textwidth]{chap3/104_l}}
-  \bicaption[fig:origImageforexpriment]{(a)-(k)为选取的11幅图像的左图}{(a)-(k)为选取的11幅图像的左图}{Fig}{The original image we choosed}
+  \bicaption[fig:origImageforexpriment]{(a)-(k)为选取的11幅图像的左图}{(a)-(k)为选取的11幅图像的左图}{Fig}{The 11 original left images we choosed}
 \end{figure}
 
 针对每幅图像，我们采用下面的方法对图像进行视差调整：
@@ -79,7 +79,7 @@
 \begin{figure}[!htp]
   \centering
   \includegraphics[width=\textwidth]{chap3/eyetrackingdatacollect}
-  \bicaption[fig:eyetrackingdatacollect]{眼动数据采集系统设计图}{眼动数据采集系统设计图}{Fig}{The eyetracking data collection system}
+  \bicaption[fig:eyetrackingdatacollect]{眼动数据采集系统设计图}{眼动数据采集系统设计图}{Fig}{The eyetracking data collection system designer map}
 \end{figure}
 
 从图\ref{fig:eyetrackingdatacollect}可以看出，眼动数据采集系统从功能上来看分为三个部分：一是眼动数据采集系统的综合控制模块。这部分涉及到眼动仪的正常运行的基本配置，图像格式处理以及测试方法的设定和控制等，是本系统的基本功能部分；二是本地管理模块，主要涉及从本地创建任务以及本地数据的维护和操作；三是与服务器的通信交互模块，主要涉及在线任务的获取与实验数据的远程存储。下面我们将分别对这三个模块进行介绍。
@@ -94,7 +94,7 @@
 \begin{figure}[!htp]
   \centering
   \includegraphics[width=0.75\textwidth]{chap3/configuration}
-  \bicaption[fig:configuration]{显示器的配置，需要将显示器的三个角的坐标传给眼动仪}{显示器的配置，需要将显示器的三个角的坐标传给眼动仪\supercite{manualuser}}{Fig}{The configuration procedures for screen to eyetracker\supercite{manualuser} }
+  \bicaption[fig:configuration]{显示器的配置，需要将显示器的三个角的坐标传给眼动仪}{显示器的配置，需要将显示器的三个角的坐标传给眼动仪\supercite{manualuser}}{Fig}{The configuration procedures for screen to eyetracker\supercite{manualuser} which need transform three corners cordinary of screen to eyetracker}
 \end{figure}
 \begin{figure}[!htp]
   \centering
@@ -164,7 +164,7 @@
   \subfigure[Tobii 眼动仪]{
     \label{fig:tobii} %% label for second subfigure
     \includegraphics[width=0.5\textwidth]{chap3/tobii}}
-  \bicaption[fig:apparatus]{眼动实验设备}{眼动实验设备}{Fig}{Eyetracking Apparatus.}
+  \bicaption[fig:apparatus]{眼动实验设备}{眼动实验设备}{Fig}{Eyetracking experiment Apparatus.}
 \end{figure}
 
 \subsection{被试者（实验参与者）}
@@ -202,7 +202,7 @@
 \begin{figure}[ht]
   \centering
   \includegraphics[width=0.7\textwidth]{chap3/stereoacurityresult}
-  \bicaption[fig:stereoacurityresult]{所有被试者立体视敏度的结果，纵轴表示该被试者可以看到的最高组号}{所有被试者立体视敏度的结果，纵轴表示该被试者可以看到的最高组号}{Fig}{The result of stereoacurity test}
+  \bicaption[fig:stereoacurityresult]{所有被试者立体视敏度的结果，纵轴表示该被试者可以看到的最高组号}{所有被试者立体视敏度的结果，纵轴表示该被试者可以看到的最高组号}{Fig}{The result of stereoacurity test, where the y axis represents the highest group one can catch}
 \end{figure}
 结果显示，昵称为“609lab”的被试者只能看到前三组，所以相对立体视敏度过差，我们拒绝该被试者参与下面的实验。
 由于滤波和特征提取时区分了主眼和辅眼的作用，本文在实验开始时都会对被试者进行主眼检测。主眼的测试的方法较简单\footnote{\url{http://academy.fengniao.com/299/2995808.html}}，这里不再赘述，实验中所有被试的主眼情况如图\ref{fig:maineye}所示。

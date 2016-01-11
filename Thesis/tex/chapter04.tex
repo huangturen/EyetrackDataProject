@@ -21,14 +21,14 @@ kurtosis = \frac{{\sum\nolimits_{i = 1}^N {{{({Y_i} - \overline Y )}^4}} }}{{(N 
     \captionstyle{\centering}
     \centering
     \includegraphics[width=\textwidth]{chap4/kurtosis}
-    \bicaption[fig:kurtosis:a]{77幅图像对应的Kurtosis 系数以及正态分布的临界值2，4}{77幅图像对应的Kurtosis 系数以及正态分布的临界值2，4}{Fig}{Kurtosis coeficients of 77 stereoscopic image}
+    \bicaption[fig:kurtosis:a]{77幅图像对应的Kurtosis 系数以及正态分布的临界值2，4}{77幅图像对应的Kurtosis 系数以及正态分布的临界值2，4}{Fig}{Kurtosis coeficients of 77 stereoscopic image and the critical values 2,4 for normal distribution.}
   \end{minipage} %  
   \hfill
   \begin{minipage}[b]{0.74\textwidth}
     \captionstyle{\centering}
     \centering
     \includegraphics[width=\textwidth]{chap4/exampleofoneperson}
-    \bicaption[fig:exampleofoneperson:b]{77幅图像的主观评分的异常评分上界（蓝色）和下界（绿色）以及其中一个被试的评分（红色）}{77幅图像的主观评分的异常评分上界（蓝色）和下界（绿色）以及其中一个被试的评分（红色）}{Fig}{The sup and inf scores for 77 images and the scores from a participant}
+    \bicaption[fig:exampleofoneperson:b]{77幅图像的主观评分的异常评分上界（蓝色）和下界（绿色）以及其中一个被试的评分（红色）}{77幅图像的主观评分的异常评分上界（蓝色）和下界（绿色）以及其中一个被试的评分（红色）}{Fig}{The sup(blue) and inf(green) scores for 77 images and the scores(red) from a participant}
   \end{minipage}     
 \end{figure}
 这个值称为峰度，一般认为当峰度值为3时，数据组服从正太分布。\parencite{recommendation2002500}建议一组数据的峰度值在$[2,4]$之间时，认为该组数据服从正态分布，否则是非正态分布。
@@ -73,7 +73,7 @@ Bia{s_{\sup }} > 20\%  \qquad or \qquad Bia{s_{\inf }} > 20\%
     \captionstyle{\centering}
     \centering
     \includegraphics[width=\textwidth]{chap4/outofboundsforallperson}
-    \bicaption[fig:distributiontestresultforall]{所有被试评分超出相应图像上界和下界的次数}{所有被试评分超出相应图像上界和下界的次数，这里用0.1代替0}{Fig}{Out of bounds Count for all participant}
+    \bicaption[fig:distributiontestresultforall]{所有被试评分超出相应图像上界和下界的次数}{所有被试评分超出相应图像上界和下界的次数，这里用0.1代替0}{Fig}{Out of bounds Count for all participant, we used 0.1 instead of 0 for good performance }
   \end{minipage} %  
   \hfill
   \begin{minipage}[b]{0.49\textwidth}
@@ -109,14 +109,14 @@ Bia{s_{relative}} < 30\%
 \begin{figure}[ht]
   \centering
   \includegraphics[width=0.6\textwidth]{chap4/mosandconfidence}
-  \bicaption[fig:mosandconfidence]{77幅图对应的MOS值及其95\%的置信区间}{77幅图对应的MOS值及其95\%的置信区间}{Fig}{The MOS and 95\% confident interval}
+  \bicaption[fig:mosandconfidence]{77幅图对应的MOS值及其95\%的置信区间}{77幅图对应的MOS值及其95\%的置信区间}{Fig}{The MOS and 95\% confident interval for 77 images}
 \end{figure}
 
 在\ref{sec:imagedatabase}中创建图像库时本文采用了“移轴法”对选取的11幅图像进行了7种视差调整来获取不同质量的图像。现在将MOS值以相同的移轴值为基准分为7组，然后计算每个被试者对每组图像的MOS值。图\ref{fig:differentdisparity}给出了分组后的评分结果。从图中可以看出：
 \begin{figure}[!ht]
   \centering
   \includegraphics[width=0.6\textwidth]{chap4/differentdisparity}
-  \bicaption[fig:differentdisparity]{77幅图按相同的视差调整值分组后24个被试者的MOS值}{77幅图按相同的视差调整值分组后24个被试者的MOS值}{Fig}{The MOS of different shift disparity value}
+  \bicaption[fig:differentdisparity]{77幅图按相同的视差调整值分组后24个被试者的MOS值}{77幅图按相同的视差调整值分组后24个被试者的MOS值}{Fig}{The MOS of different shift disparity value for 24 participants from 77 images}
 \end{figure}
 
 第一，图像的主观评分经移轴后确实产生了变化，因此，利用移轴进行视差调整确实可以创建出不同质量的图像。本文的图像库创建方法是合理的。
@@ -199,7 +199,7 @@ Bia{s_{relative}} < 30\%
   \subfigure[校正后的数据]{
     \label{fig:aftercalibration:b} %% label for second subfigure
     \includegraphics[width=0.45\textwidth]{chap4/aftercalibration.png}}
-  \bicaption[fig:performanceofcalibration]{校正前后的效果对比图}{校正前后的效果对比图}{Fig}{The difference between before and after calibration}
+  \bicaption[fig:performanceofcalibration]{校正前后的效果对比图}{校正前后的效果对比图}{Fig}{The performance between before and after calibration}
 \end{figure}
 由图\ref{fig:conditioncompare}可见，Wang的眼动仪与头部的位置相对固定，是准侵入式设备。而我们的眼动仪则是非侵入式装备，两者的最大区别在于头部是否可动。在\ref{sec:caldisparity}中本文曾经分析了与视差角相关的量：眼睛的位置和屏幕上的注视点的位置。可见在Wang的测试条件下，由于眼睛位置相对来说比较固定，所以视差实际上由屏幕上的注视点来确定，这就是Wang的算法直接采用方程\ref{eq:disparitypixel}计算视差的原因。而我们的实验条件决定了人的头部是可动的，这就使得眼睛的位置相对不太固定，如此，直接采用方程\ref{eq:disparitypixel}计算视差的精度较低。所以，本文的算法对视差信息的估计采用视差角来表示，见方程\ref{eq:disparityofeyetrackdata}。
 
@@ -266,7 +266,7 @@ D(pixel) = \left[ {e - 2d*\tan (\arctan (\frac{e}{{2d}}) - \frac{\theta }{2})} \
   \includegraphics[width=0.6\textwidth]{chap4/windowL}
   \bicaption[fig:windowL]{基于固定窗的扫视点检验方法示意图}{基于固定窗的扫视点检验方法示意图，图中虚线是相邻两视点的欧式距离，实线为固定窗口L中的距离和。$A,B$两点满足比前后位置值都大，所以，此刻窗口对应的序列为扫视序列}{Fig}{The saccade point detecting of eyetracking data based on window L，The windows are saccade points corresponding to $A,B$}
 \end{figure}
-\begin{figure}[t]
+\begin{figure}[!ht]
   \centering
   \subfigure[滤波结果示意图1（主眼）]{
     \label{fig:filterresults:a} %% label for first subfigure
@@ -286,7 +286,7 @@ D(pixel) = \left[ {e - 2d*\tan (\arctan (\frac{e}{{2d}}) - \frac{\theta }{2})} \
   \subfigure[滤波结果示意图3（辅眼）]{
     \label{fig:filterresults:f} %% label for second subfigure
     \includegraphics[width=0.45\textwidth]{chap4/filterresults4_L}}
-  \bicaption[fig:filterresults]{同一幅图对应的眼动数据在不同参考眼睛下进行滤波与眼动过程分离后的结果}{同一幅图对应的眼动数据在不同参考眼睛下进行滤波与眼动过程分离后的结果，图a，c，e是以主眼为参考滤波的结果，图b，c，f是相应的以辅眼为参考滤波的结果。}{Fig}{The result of filtered and eyemovement seperate.}
+  \bicaption[fig:filterresults]{同一幅图对应的眼动数据在不同参考眼睛下进行滤波与眼动过程分离后的结果}{同一幅图对应的眼动数据在不同参考眼睛下进行滤波与眼动过程分离后的结果，图a，c，e是以主眼为参考滤波的结果，图b，c，f是相应的以辅眼为参考滤波的结果。}{Fig}{The result of filtered and eyemovement seperate based on different eyes, a, c, e is the results based on main eye while b, c, f are based on auxiliary eye.}
 \end{figure}
 
 第六，以辅眼视点为参考进行滤波。在算法步骤二需要计算时间上相邻的两个视点间的距离，选用哪个眼睛作为参考眼睛是一个问题。一般在2D模式下，考虑的是人眼在屏幕上的注视点，所以，通常采用两眼注视点的平均位置作为参考。但是在3D模式下，双眼看到的图片不同，且双眼在立体视觉中的功能不同——主眼负责控制方向，辅眼辅助形成深度视觉。所以，考虑两个眼睛注视点的平均位置不太适用。到底选用主眼还是辅眼作为参考，我们对两种情形都进行了对比实验，图\ref{fig:filterresults}给出了同一幅在两种参考眼睛下滤波的结果。其中左边为以主眼为参考滤波的结果示意图，右边是以辅眼为参考滤波结果示意图。图中“*”表示未处理视点（Gaze point）位置，圆圈表示估计的注视点（Fixation point）位置，这里以图\ref{fig:filterresults:a}和图\ref{fig:filterresults:b}的结果为例来做分析：
@@ -314,7 +314,7 @@ D(pixel) = \left[ {e - 2d*\tan (\arctan (\frac{e}{{2d}}) - \frac{\theta }{2})} \
     \subfigure[示意图73s34.jpg]{
     \label{fig:origimage:a} %% label for first subfigure
     \includegraphics[width=0.5\textwidth]{chap4/73s34}}
-  \bicaption[fig:densityexample]{2D眼动数据图常见的表示方法}{2D眼动数据图常见的表示方法}{Fig}{The density map for 2D image}
+  \bicaption[fig:densityexample]{2D眼动数据图常见的表示方法}{2D眼动数据图常见的表示方法}{Fig}{The common method to create density map for 2D image}
 \end{figure}
 \subsubsection{基于视差图分割的立体图像分层分割的立体表示方法}
 \label{sec:stereoscopicimagerepresentation}
@@ -577,7 +577,7 @@ Q = Nq = \left\lfloor{\frac{{(\theta _{\max }^R - \theta _{\min }^R)}}{{q*M'}}} 
     \includegraphics[width=0.4\textwidth]{chap4/82s-22}}
   \bicaption[fig:69s11vs82s-11]{实验原图的示例图像}{实验原图的示例图像}{Fig}{The Original Image }
 \end{figure}
-\begin{figure}[ht]
+\begin{figure}[t]
   \centering
   \subfigure[FDM1 for 69s11.jpg]{
    \label{fig:fdm1for69s11}
@@ -590,7 +590,7 @@ Q = Nq = \left\lfloor{\frac{{(\theta _{\max }^R - \theta _{\min }^R)}}{{q*M'}}} 
     \includegraphics[width=0.3\textwidth]{chap4/fdmfor69s11neighbor}}
   \bicaption[fig:fdmanalysisfor69s11]{\ref{fig:69s11}的不同角度的FDM图}{\ref{fig:69s11}的不同角度的FDM图}{Fig}{The FDMs for \ref{fig:69s11} }
 \end{figure}
-\begin{figure}[t]
+\begin{figure}[ht]
   \centering
   \subfigure[FDM1 for 82s-11.jpg]{
    \label{fig:fdm1for82s-11}
@@ -601,7 +601,7 @@ Q = Nq = \left\lfloor{\frac{{(\theta _{\max }^R - \theta _{\min }^R)}}{{q*M'}}} 
   \subfigure[FDM3 for 82s-11.jpg]{
    \label{fig:fdm3for82s-11}
     \includegraphics[width=0.3\textwidth]{chap4/fdmfor82s-11neighbor}}
-  \bicaption[fig:fdmanalysisfor82s-11]{\ref{fig:82s-11}的不同角度的FDM图}{\ref{fig:82s-11}的不同角度的FDM图}{Fig}{The FDMs for \ref{fig:82s-11} }
+  \bicaption[fig:fdmanalysisfor82s-11]{\ref{fig:82s-11}的不同角度的FDM图}{\ref{fig:82s-11}的不同角度的FDM图}{Fig}{The FDMs for \ref{fig:82s-11} of different views.}
 \end{figure}
 
 图\ref{fig:fdm1for69s11}和图\ref{fig:fdm1for82s-11}是相应的注视密度图的正视图，我们发现，当所有的深度平面在深度方向合并后，此时的深度平面只有一个，原立体的密度注视图退化成了2D注视密度图。因此，本文的方法是一种更高维度的方法，2D注视密度图可以看成是3D注视密度图的一种特殊情况。2D注视密度图结果显示，人眼在图 \ref{fig:69s11}的注视区域集中在“凉亭”上，从图像内容来看，“凉亭”位于图像中央，人眼注视图像中央是合理的。但是，和旁边的“树木”相比，“凉亭”所处区域的视差变化相对较小。Liu\parencite{liu2010scene}的工作已经证明了人眼比较喜欢注视亮度对比度和梯度比较大的区域，但在视差方面却是相反的，即人眼喜欢注视视差对比度和梯度较小的区域。我们的观察结果也印证了这一点。同样的结果在图\ref{fig:82s-11}也观察到了，人眼在“石狮”身上的注视程度远高于后面的“人群”等，“石狮”的视差变化较小是造成这种情况的原因之一。
