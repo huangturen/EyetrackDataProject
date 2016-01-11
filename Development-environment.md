@@ -1,4 +1,10 @@
-本工程涉及到的软件环境如下：
+眼动数据收集客户端的开发环境：
+
+windows7+Visual studio 2010 + Tobii SDK 3.2 + Qt 4.8.5 + boost_1_49_0_b1
+
+
+
+眼动数据处理工程涉及到的软件环境如下：
 
 C++代码在下面的环境下测试过可用
 windows 7 + Visual studio 2010 + opencv2.4.7
